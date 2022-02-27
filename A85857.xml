@@ -1,0 +1,1322 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hierotelesia gamikē Christ at the wedding: the pristine sanctity and solemnity of Christian marriages, as they were celebrated by the Church of England. / Humbly presented to those gentlemen whom it concerns to consult and resolve what is best. By John Gauden, D.D. at Bocking in Essex.</title>
+            <author>Gauden, John, 1605-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 96 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85857</idno>
+            <idno type="STC">Wing G360</idno>
+            <idno type="STC">Thomason E480_3</idno>
+            <idno type="EEBO-CITATION">99862523</idno>
+            <idno type="PROQUEST">99862523</idno>
+            <idno type="VID">163999</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85857)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163999)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 77:E480[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hierotelesia gamikē Christ at the wedding: the pristine sanctity and solemnity of Christian marriages, as they were celebrated by the Church of England. / Humbly presented to those gentlemen whom it concerns to consult and resolve what is best. By John Gauden, D.D. at Bocking in Essex.</title>
+                  <author>Gauden, John, 1605-1662.</author>
+               </titleStmt>
+               <extent>[2], 29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Cotes, for Andrew Crook, and are to be sold at the Green Dragon in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First two words of title in Greek characters.</note>
+                  <note>Annotation on Thomason copy: "Feb. 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+               <term>Marriage --  Religious aspects --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:163999:1" rendition="simple:additions"/>
+            <p>Ἱε<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ελεςία Γα<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ὴ</p>
+            <p>CHRIST at the WEDDING: The priſtine Sanctity and Solemnity OF Chriſtian Marriages, As they were Celebrated <hi>By the CH<g ref="char:V">Ʋ</g>RCH of</hi> ENGLAND. Humbly preſented to thoſe Gentlemen whom it concerns to Conſult and Reſolve what is beſt.</p>
+            <p>By <hi>John Gauden,</hi> D. D. at <hi>Bocking</hi> in <hi>Eſſex.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>HEB. 13.4.</hi>
+               </bibl> Marriage is Honourable among all Men.</q>
+            <q>
+               <bibl>
+                  <hi>AUST. de NUPTIIS.</hi>
+               </bibl> Tanto fortius quanto ſanctius charitalis vinculum inter conjuges.</q>
+            <q>
+               <bibl>
+                  <hi>CHRYSOST. in Epheſ. 5.</hi>
+               </bibl> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. Cotes,</hi> for <hi>Andrew Crook,</hi> and are to b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:163999:2"/>
+            <pb n="1" facs="tcp:163999:2"/>
+            <head>To the Honorable or Worſhipfull Gentle<g ref="char:EOLhyphen"/>men of the Committee for Mariage, &amp;c.</head>
+            <opener>
+               <salute>HONORED GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Once more preſume to finde ſo much publick patience and candor, <label type="milestone">
+                  <seg type="milestoneunit">Section </seg>1</label> as to preſent to you (with the ſame freedome I not long ſince uſed in the caſe of <hi>Tithes,</hi> to your ſhort-lived and (for the moſt part) lower bred predeceſ<g ref="char:EOLhyphen"/>ſors) another great and <hi>publick Conſideration,</hi> very worthy, as I conceive, of the review and advice of wiſe, unpaſſionate, and unprejudiced perſons, ſuch as you are either hoped or wiſhed to be; having a publick influence in a <hi>Parliamentary</hi> way upon this Church and Nation; (Which imployment (you know) requires wary Coun<g ref="char:EOLhyphen"/>ſellors, not <hi>voracious C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmorants</hi> of buſineſſe; ſwallowing greedi<g ref="char:EOLhyphen"/>ly like <hi>Oſtriches</hi> all that is offered them without any chewing: You have ſeen ſome men almoſt choak themſelves, while they ſought to ſhew how good ſtomachs they had, when all the world knew they had very ill digeſtion.</p>
+            <p>The buſineſſe I now humbly propoſe is, <label type="milestone">
+                  <seg type="milestoneunit">Section </seg>2</label> 
+               <hi>Touching the publick celebration and decent Solemnizing of Chriſtian Marriage;</hi>
+               <note place="margin">Ann. Chr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Intereſſe d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Presbyter h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tioni qui <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>nedictione juvare debe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> conſortium omnem ſan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tem, pag.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sir <hi>Hen. S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Concil. Britannica.</hi> Ann. Chriſt. 740. <hi>Can.</hi> 88. <hi>in Synodo Eboracenſi ſub Egberto. Sponſus &amp; ſacerdote benedicendi.</hi>
+               </note> whether after the <hi>new mode,</hi> (which is but as a <hi>Muſhrome</hi> of yeſterday, a Gourd <hi>of a nights growing,</hi> under whoſe ſhadow ſome peeviſh ſpirits fancie great refreſhings); or, whether after the <hi>Ancient and Venerable way,</hi> ever uſed (for the main) in the Church of <hi>England,</hi> by <hi>Miniſters</hi> and <hi>People;</hi> wherein, <hi>Godly Instruction, Pious Exhortation, ſolemne Obteſtations, publick Declaration,</hi> and <hi>Divine Benediction,</hi> were with all religious reverence applyed to the glory of God, and the great
+<pb n="2" facs="tcp:163999:3"/>benefit of Chriſtians; to the honour alſo of this reformed Church, and the renown of this Nation: Agreeable, not only to what had been for many hundred years ſetled in <hi>England</hi> by the wiſeſt and moſt unanimous <hi>Parliaments,</hi> with Civill ſanctions, as well as Eccleſiaſticall Canons; but alſo to the practiſe of moſt Chriſti<g ref="char:EOLhyphen"/>an Churches in all ages and places, who generally eſteemed ſuch ſacred ſolemnities,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Impe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onſtituti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Hot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>man. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p tiis &amp; Gau<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i lib. de ſe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſtinianaei <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us. c.</hi> 15. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aritanda <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ima Chri<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.</note> attending and crowning the civill Contracts of <hi>Marriages</hi> among Chriſtians, to be the beſt way, both as to piety and policie, ſanctity and civility, to publick order, and private comfort; to inward conſcience, and outward conve<g ref="char:EOLhyphen"/>niencie. So farre were your and our pious <hi>Progenitors</hi> from excluding <hi>Chriſt</hi> or his Diſciples and Miniſters from their <hi>Weddings;</hi> that they alwayes invited them, as expecting both an honour and a bleſſing from their preſence and Mi<g ref="char:EOLhyphen"/>niſtry.</p>
+            <p>From which holy uſe and decent cuſtome, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>3</label> of this and all <hi>famous Churches</hi> for any Chriſtians not fairely and rationally to recede, but ſuddenly and abruptly to flie with ſomewhat ſhort turnes, and (as it were) ſcornefull reflexions, upon the wiſedome of their Anceſtors; Truly it may ſeem not only ſome reproach to their Chriſtian piety, but alſo to their naturall <hi>generation</hi> and civill <hi>extraction.</hi> As if our fathers had been either ill married pa<g ref="char:EOLhyphen"/>rents, or we misbegotten poſterity, whoſe deſcent or production muſt be thought to have had leſſe honeſty, religion and honour, in the publick obſignation and ſolemnity of their Marriages, than their <hi>new fangled Nephewes</hi> and <hi>reforming Minors</hi> have lately found out.</p>
+            <p>Some of whom, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>4</label> are prone to prefer any dull <hi>piece of factious novelty,</hi> any <hi>fanatick fancie,</hi> any <hi>Plebeian proſtitution</hi> as of other holy things, ſo of that <hi>great and venerable myſtery Marriage,</hi> (as it is called by St. <hi>Paul,
+<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ. 5.32.</note> Epheſ.</hi> 5.32.) before that moſt judicious, grave, and uſefull celebration, which both hallowed and adorned, with the <hi>word of God</hi> and <hi>Prayer,</hi> the happy Marriages of their fore-fathers who may ſeem only unhappy in this, that they were the origin or fountains of ſuch leſſe clear, or more turbulent derivations, as have ſucceeded them. Who not content to vary in their own judgements and practices from ſuch worthy paternall precedents and eccleſiaſticall cuſtomes, are impatient not to ſwerve others alſo. And this, not only to no advantages (yet decernable) but alſo to the very great charge, trouble and vexation of all ſorts of people.</p>
+            <p>Which ſo great and (as ſome thinke) greivous <hi>alteration,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>5</label> cannot but ſeem to all ingenuous and wiſe men (who are not given to <hi>change,</hi>
+               <note place="margin">v. 24.21.</note> unleſſe it be to the better) rather the effect of ſome
+<pb n="3" facs="tcp:163999:3"/>mens itching humors, and innovating genius, (who like no <hi>coine</hi> but what bears their own image and ſuperſcription; and this, though copper or braſſe, they prefer before old gold or ſilver) Or elſe it is the fruit of a <hi>bitter ſpirit,</hi> and an implacable deſpight againſt the dignity, office, and <hi>calling of the Miniſtry;</hi> which they ſeek (as much as they can) to diſparage and depreciate; ſtudying to repreſent it as burthen ſome; and to render it every way uſeleſſe to the publick; that ſo it may ſeem juſtly to be <hi>deſpiſed,</hi> and after utterly deſtroyed, by the enemies of this (as of all) well <hi>reformed Churches;</hi> Nor is there any great doubt to be made, but that the project of <hi>pro<g ref="char:EOLhyphen"/>hibiting the Miniſters of England</hi> to officiate in the marriages of others, is (in ſome mens deſign,) one of the firſt diſhes, which are to furniſh the <hi>Jeſuitick feaſt;</hi> which (after) they hope may be followed with ſuch a <hi>ſecond Service,</hi> as ſhall fully gratifie the palates of the moſt ſpite<g ref="char:EOLhyphen"/>full Papiſts; by forbidding <hi>Miniſters</hi> themſelves to <hi>be marryed;</hi> un<g ref="char:EOLhyphen"/>leſſe they will degenerate to a Lay kinde of concubinacy.</p>
+            <p>So far (as in other, ſo) in this part of ſome mens <hi>deformation,</hi> may we ſeem to have warped from that priſtine weight, gravity,
+<note place="margin">
+                  <p>
+                     <hi>Allegoriam</hi> A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mi <hi>&amp;</hi> Evae <hi>Chriſto interp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> tatur &amp; Ecc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ſia: Locus ineffabilibus nus eſt Sacra<g ref="char:EOLhyphen"/>mentis, &amp; di<g ref="char:EOLhyphen"/>num cor quae interpretis.</hi> Naz.</p>
+                  <p>
+                     <hi>Reliquit Chr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſtu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Patrem, um, matrem c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> leſtem Jeruſ<g ref="char:EOLhyphen"/>lem; venit a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> terras propt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Eccleſiam ſua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> è latere Chriſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> fabricatam,</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Jerom. <hi>in</hi> Ep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </p>
+               </note> and impartiality of wiſdome, which heretofore honored our <hi>happy Parliaments;</hi> bleſſed this unanimous Nation; and crowned this re<g ref="char:EOLhyphen"/>formed Church: while it kept a prudent and juſt <hi>medium,</hi> be<g ref="char:EOLhyphen"/>tween <hi>Papal exceſſe;</hi> (which raiſeth <hi>Matrimony</hi> to the height of an <hi>Evangelical Sacrament,</hi> properly ſo called as
+<note n="*" place="margin">
+                  <hi>Bellarmine matrim. Vid. Chryſoſt. in Epheſ.</hi> 5.32. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>non in Moſis hiſtoriam ſed in Chriſti amorem <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ctans.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Bellarmine</hi> diſputes: beyond any Scripture grounds or Primitive doctrine, that we can yet ſee, ſave only the wreſting of that place of the Apoſtle St. <hi>Pauls, Epheſ.</hi> 5.32. where he <hi>cals marriage a great myſtery,</hi> as relating to Chriſt and his Church; agreeable to which the Fathers oft uſe the word <hi>Sacrament</hi> to ſet forth the honor of Chriſtian Marriages) And that <hi>Plebeian looſneſſe,</hi> or <hi>mechanick profaneneſſe,</hi> (on the other ſide) which ſeeks to abate <hi>Chriſtian marriage,</hi> either to notions, ends, and affections meerly natural, ſenſual and brutal; or at the higheſt to deſignes and cuſtomes only humane, politick, and civil; with<g ref="char:EOLhyphen"/>out any ſolemn and ſerious reflexions publickly to be made ei<g ref="char:EOLhyphen"/>ther by Miniſters, or people, upon the <hi>Divinity of the Institution;</hi> the <hi>ſublimity of the Myſtery;</hi> or the <hi>ſanctity of the relation,</hi> repreſenting the love of Chriſt Jeſus to his Church.</p>
+            <p>Alas, how dul, indevout, and even <hi>profane,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>7</label> muſt that marriage ſeem among Chriſtians, wonted to better faſhions, wherein no me<g ref="char:EOLhyphen"/>mory ſhall be had, or mention made of the holineſſe of <hi>that Cove<g ref="char:EOLhyphen"/>nant,</hi> which is called the vow, or <hi>Covenant of God,</hi> between man and
+<pb n="4" facs="tcp:163999:4"/>wife: How bald and bare (like a ſhorn captive) muſt it appear, wherein nothing is propounded of that <hi>excellent wiſdome,</hi>
+               <note place="margin">v. 2.17.</note> ſet forth in the Word of God; which may teach, and furniſh us, with what <hi>graces</hi> we need, both to begin, and carry on the duties, cares and comforts of that condition;
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>jugii aurea <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> vincula; ſed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ula tamen:</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b.</note> when no ſacred charge, no ſolemn injunction in the name, and fear of <hi>God,</hi> is either heard, or thought of; whereby to keep (as by an holy <hi>charm</hi>) both ſouls and bodies, within thoſe bounds of <hi>chaſtity, honor,</hi> and <hi>fidelity,</hi> which God requires; alſo to repreſſe the <hi>ſordid extravagancies</hi> of ſenſual fancies, inordinate affections, and even brutiſh deſires; to which lapſed and corrupted humanity is but <hi>too ſubject,</hi> both by its own innate impulſes, and by the Divels temptations; which are prone (as St. <hi>Hierom</hi> ſays) to ſowre the ſweeteſt marriages;
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>il in rebus <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anis perinde <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erandum est <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ue matrimo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m; generis <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mani fulcrum; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> pub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icae fun<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nentum; ce<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iae ſuſtentacu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, &amp;c.</hi> Juſti.</note> and corrupt a ſenſual matrimony to a ſpiritual adultery: while God, and Chriſt, and the Church are all neglected; and only the world, the fleſh, and the Divel are gratified. Oh! how ſad and ſimple is that <hi>Silence</hi> in marriage, which ſuggeſts not a word (or very flatly, poor<g ref="char:EOLhyphen"/>ly, and coldly concerning any <hi>bleſſings,</hi> which ſinful mortals ex<g ref="char:EOLhyphen"/>tremely want, and ought earneſtly to pray for, that their choice may be both pious and prudent; their obtaining proſperous; and their enjoyments holy; ſo as becomes thankful ſouls to God, for thoſe ſpecial mercies and gifts, which from him alone muſt crown with happineſſe the marriages of Chriſtians!
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omnis congre<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>io haeretico<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Chriſti Ec<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſia dici non <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſt; ſic nec <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rimonium <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d ſecundum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riſti praecepta <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> conjungitur <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>jugium dici <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſt, ſed magis <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lterium.</hi> Je<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. <hi>in.</hi> Epheſ.</note> In which there is a momentary ſhadow, and little embleme of a ſhort <hi>Heaven</hi> or <hi>Hell;</hi> So that no part of our ſinful life requires (as St. <hi>Chryſoſtom</hi> obſerves) more wiſe conduct, more religious care; For next to the diſpoſing of our ſouls to God, and our ſpiritual marriage to Chriſt; it is of greateſt concernment, how we diſpoſe of our per<g ref="char:EOLhyphen"/>ſons as to a conjugal relation in this world; So much cauſe there may ſeem, indeed, rather to have heightned and augmented the holy ſolemnity of marriage, being ſo weighty a matter, than any way to have depreciated, or lightned it, by putting it (only) into Lay hands, and making it ſeem a matter meerly of <hi>civill tranſaction</hi> among Chriſtians.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chryſoſt. in Epheſ.</hi> 5. <hi>Ad obſervantiam diſciplinae, ad ſancti ger<g ref="char:EOLhyphen"/>nis foecunditatem, ad augmentum pudoris, ad cuſtodiam caſtitatis, ad ſuperni Thalami ſacrum reveren<g ref="char:EOLhyphen"/>m<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſecretum, ad Myſticam Thor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> coeleſtis unitatem.</hi> Cryſologus. ſer. 115.</note>
+            </p>
+            <p>And however ſome thing ſeemingly godly, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>8</label> might be by ſome men advantageouſly propounded, and oratoriouſly impoſed upon weak capacities, and credulous mindes, in order to obtain ſo great an alteration: yet never any ſolid grounds, either of reaſon
+<pb n="5" facs="tcp:163999:4"/>or Religion, of ſacred or civil intereſts, as to the publique good, hitherto have appeared, to ſober and unpartial judgements; ſome private fancies, or paſſions might poſſibly be gratified, by the change; but it never was, nor will be juſtified, by the <hi>children of true wiſe<g ref="char:EOLhyphen"/>dome;</hi> who are rather amazed, to ſee the <hi>priſtine ſanctity</hi> of Chriſti<g ref="char:EOLhyphen"/>an marriages, ſo abaſed and aboliſhed in <hi>England,</hi> by ſo eaſie heads, and heavy hands. In which if <hi>Parliamentary Authority</hi> had been as indiſputable, as themſelves voted it; yet neither their choyce, nor their number, nor their delegation (as from the people) nor their repreſentation, as to the community of this Nation, was ſo compleat and ſatisfactory, as Parliaments of former times, and of contrary judgments had been: Their conduct alſo and managing of great publique affairs, (which ſome thought to graſp within un<g ref="char:EOLhyphen"/>waſhen hands and narrow fiſts) was not ſo every way conſpicu<g ref="char:EOLhyphen"/>ous, for <hi>diſcretion,</hi> and prudence, as to render their <hi>Edicts Oracles;</hi> or to make their dictates like the irreverſible Laws of <hi>Medes</hi> and <hi>Perſians;</hi> nor indeed was that <hi>Convention</hi> free from the ſuſpicion of being ſhrewdly leavened with ſome <hi>illiterate, weak,</hi> paſſionate, and plebeian ſpirits; who better underſtood their counting books or tallies, than our <hi>Laws</hi> and <hi>Statutes;</hi> having better skill in or<g ref="char:EOLhyphen"/>dering of cattel, than governing of States or Churches: whoſe in<g ref="char:EOLhyphen"/>experience of things beyond their private and ſmall fortunes, made them leſſe proper or pertinent, for any influence in a <hi>legiſlative</hi> way, than ever <hi>Phaeton</hi> was for <hi>Phaebus</hi> his Chariot: Inſomuch that (we ſee) in a ſhort time they hampered and ſo intangled themſelves in their own traiſe and carriere, that they could goe no further; but finding publique buſineſſe and Parliamentary authority, like <hi>Sauls armour,</hi> too large and ponderous for their narrow breaſts, and feeble ſhoulders, they were glad to put it off quickly; leſt the preſſure and incumbrance of it ſhould have made them a ridiculous and de<g ref="char:EOLhyphen"/>formed ſpectacle to the world; while like ſhort leg'd <hi>Pygmies</hi> ſome men in vain ſtretcht themſelves to ſupport heaven; which is the work only of a mighty and invincible <hi>Atlas.</hi>
+            </p>
+            <p>Why then ſo ſmal a rivolet lately derived from ſo troubled a foun<g ref="char:EOLhyphen"/>tain, which laſted not ſo long as that in <hi>Lehi,</hi> (commonly thought the <hi>jaw-bone of an Aſſe,</hi> which ſatisfied <hi>Sampſons</hi> thriſt) why this ſhould ſo prevail againſt (as either quite to exhauſt and drain, or wholly to divert) that ancient, fair and goodly ſtream of devout ſolemnity in which marriage had its courſe here in <hi>England,</hi> through the Sanctuary and Miniſtry (as in other Chriſtian and reformed Churches) no great account in reaſon can be given, but only this; That Civil changes are commonly attended with ſome changes in Religion.</p>
+            <p>But you (O worthy <hi>Gentlemen</hi>) are looked upon as perſons <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>9</label>
+               <pb n="6" facs="tcp:163999:5"/>formed of better earth, and hewed out of nobler quarries: Your convening ſeems more benign, and propitious to the Publique; from You ſuch things are expected, as become perſons generally of bet<g ref="char:EOLhyphen"/>ter extraction, more ingenuous education, larger capacities, and more generous ſpirits; ſuch as may anſwer the expectation of all wiſe men, in thoſe things whereof you have cogniſance.</p>
+            <p>And certainly in this point of <hi>marriages</hi> (which however it bee the foundation of all humane and Eccleſiaſtical Society; yet is it no ſundamental of government) as I preſume you have liberty to conſult; ſo your own wiſdome and diſcretion cannot but tell you,</p>
+            <p n="1">1. How much you owe to the vindication, as of the honor of marriage in general, ſo in particular of your own, and your fore<g ref="char:EOLhyphen"/>fathers marriages; which were ſacred, ſolemn and moſt Chriſtianly; not deſerving in any kinde to be reproached, traduced or overpow<g ref="char:EOLhyphen"/>ered by any <hi>Mechanick invention,</hi> or <hi>Laick innovation.</hi>
+            </p>
+            <p n="2">2. You owe alſo a reparation to the diſcretion, honor, and piety of the much leſſened and degraded Miniſters of Chriſt, in this Church, who are fully as able, (without diſparagement) and I believe more willing to diſcharge the Office of holy and decent ce<g ref="char:EOLhyphen"/>lebration of <hi>marriages,</hi> then many country <hi>Juſtices</hi> are.</p>
+            <p n="3">3. You owe alſo a relief and eaſe to the people of this Nation, who are far more troubled, perplexed, and charged to finde a <hi>Ju<g ref="char:EOLhyphen"/>ſtice of Peace</hi> at leiſure or at home, (to whom they muſt travel with their friends ſome miles and poſſibly miſſe of him, to their great de<g ref="char:EOLhyphen"/>feat and vexation,) than ever they were to finde their <hi>Miniſters;</hi> who are ten, to one Juſtice; and generally, as of leſſe forain buſineſſe, ſo more conſtantly at home, and more within the reach of the people; who now are forced with horſe and man to make two or three long journeys, to have a ſhort breathed <hi>marriage</hi> diſpatched: oft times in a haſty and hudled manner; wherein is little reliſh of God, nor much ſavour of Religion.</p>
+            <p>The main, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>10</label> if not the only objection, that I have heard made by the enemies to <hi>Miniſters officiating</hi> in the caſe of publique mar<g ref="char:EOLhyphen"/>riages, <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> and which I muſt at firſt remove, is,
+<q>The danger of <hi>ſtoln</hi> and <hi>concealed marriages:</hi>
+                  <note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e publicis <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>iis nemo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ere vel ux<g ref="char:EOLhyphen"/>ducere ſumat.</hi> Con<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Arelat. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.6.</note> which are indeed (for the moſt part) little better than <hi>conſecrated felonies,</hi> and <hi>hallowed rapes</hi> of minors; without and againſt their parents, or guardians conſent; which (they ſay) was ſometimes done by ſome Miniſters; who being either ob<g ref="char:EOLhyphen"/>ſcure, or unſetled, or ſordid, cared not (for a little reward) to proſtitute the honor of their function, by ſetting their mark or ſeal Miniſterial to <hi>ſtoln goods</hi> and <hi>furtive compacts:</hi> which are al<g ref="char:EOLhyphen"/>wayes injurious to Parents, and oft very diſhonorable, as well as miſerable, to the parties ſo marryed.</q>
+            </p>
+            <p>My anſwer to this is; <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Nothing is more juſt, and fit, than ac<g ref="char:EOLhyphen"/>cording
+<pb n="7" facs="tcp:163999:5"/>to the intent of laws Divine, Civil, and Eccleſiaſtical, which generally forbid and abhor ſuch clandeſtine marriages, as that ancient Canon of <hi>Euaristus</hi> in the ſecond of the firſt Century de<g ref="char:EOLhyphen"/>clares, to prevent ſuch miſchiefs, as afflict mankinde in the neereſt relations and moſt tender affections; which are fixed upon their children, as the Centers of all ſecular cares, hopes, and joys.</p>
+            <p>But it ſeems very ſtrange,
+<note place="margin">
+                  <hi>Talia matrim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> nia apud Ecc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſiam firmita<g ref="char:EOLhyphen"/>tem non habi<g ref="char:EOLhyphen"/>tura, niſi nevi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> conſenſus robu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> acceſſerit, &amp;c.</hi> Gratian.</note> that the wiſdome of this Nation and Church could finde no remedy for ſuch a miſchief, but only ſuch an one as brings with it other great inconveniences, if not miſchiefes too. Was there no means to cure that diſorder, (which was but rare neither) ſave only by putting the whole Nation up<g ref="char:EOLhyphen"/>on a new charge and trouble? Could no bar be put in againſt furtive and injurious marriages, but only this, that they muſt be done by <hi>Juſtices of the Peace?</hi> who the more grave and underſtand<g ref="char:EOLhyphen"/>ing perſons they are, are (I am ſure) leſſe pleaſed with this new incumbrance; and leſſe ambitious of this leſſe congruous imploy<g ref="char:EOLhyphen"/>ment, than thoſe that are more ſimple and pragmatick, who no doubt may be wrought, as well as ſome Miniſters, to comply with things leſſe commendable.</p>
+            <p>The Laws of <hi>England</hi> in former times, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>11</label> were not wanting to provide againſt this danger, and thoſe evils, which ſometime fell out, by the mercenary baſeneſſe of ſome Miniſters,
+<note place="margin">Vid. Coſin. Politcia Eccle<g ref="char:EOLhyphen"/>ſiae Ang. in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bulas digesta.</note> or other <hi>Eccle<g ref="char:EOLhyphen"/>ſiaſtical Officers,</hi> which aroſe, rather from the Indulgences they uſurped, than from any licenſe granted them, by any laws Eccle<g ref="char:EOLhyphen"/>ſiaſtical or Civil: by which they were ſeverely puniſhable in ſuch caſes, if they had not a credible Certificate of the parties being thrice asked; or elſe had a ſpecial Licence, under the hand and ſeal of Authority; which (yet) could not be <hi>regularly</hi> granted, without good ſecurity, and band, firſt given, as either atteſting the conſent of parents; or that the parties were no longer <hi>minors.</hi>
+            </p>
+            <p>But how eaſie (I beſeech you) and obvious (under favour of better judgements) was the remedy, againſt ſuch hazards, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>12</label> (without any ſuch maim and deformity, as hath now followed) Thus;
+<note place="margin">
+                  <hi>Nomina conju<g ref="char:EOLhyphen"/>gandorum per<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> trinundinum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ad miniſteriu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Eccleſiaſtium publice denun ciantur.</hi> So<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Hiſt. Eccl. l. <hi>c.</hi> 5.</note> no <hi>marriage</hi> ſhould be legally valid; nor any <hi>Miniſter</hi> might, at any time, marry any perſons (without ſpecial Licenſe in ſpecial caſes) but only publiquely; and this after three times publique asking in the reſpective Churches: to which either party belonged; This to be done, by no <hi>Miniſter,</hi> but ſuch as is reſponſible, either as be<g ref="char:EOLhyphen"/>neficed and reſident in a Living; or of a known good eſtate and integrity; under the penalty of loſing his Living, forfeiting his perſonal eſtate, ſequeſtring his lands; and (in ſome caſes) of per<g ref="char:EOLhyphen"/>petual impriſonment; This publication ſo long before, is ſufficient
+<pb n="8" facs="tcp:163999:6"/>notice, and caution to parents and friends: And the ſeverity of the penalty upon any Miniſters offending, would be full as good <hi>ſecurity,</hi> as the putting of Matrimonial power, wholly into Juſtices hands; who are men too, and may have their temptations: The lay<g ref="char:EOLhyphen"/>ing aſide of the Miniſters Office in marriages, only upon this ac<g ref="char:EOLhyphen"/>count, ſeems like the project of cutting off the right hand or leg, to adde more united ſtrength to the <hi>left;</hi> or the putting out the right eye, in order to ſee more acutely with the other.</p>
+            <p>Having anſwered this Objection; <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>13</label> There is another prejudice, which (with your leave) I muſt ſeek to remove; <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> Namely this;
+<q>
+                  <hi>That Miniſters</hi> in this caſe of <hi>marriages,</hi> ſeeme very much to ſeek their own <hi>intereſt,</hi> either for profit or repu<g ref="char:EOLhyphen"/>tation, or both; Hoping, ſome <hi>benefit</hi> will accrew by ſuch <hi>marriages;</hi> and getting hereby no ſmall advantages, upon peo<g ref="char:EOLhyphen"/>ples love, and reſpects; while they would appear the only fit <hi>inſtruments</hi> to gratifie mankinde in thoſe affections, and in that happineſſe, which every one hopes and fancies to enjoy by their marriage.</q>
+            </p>
+            <p>Some, <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> with a <hi>ſupercilious ſpite,</hi> adde further;
+<q>That in vain doe Miniſters ſeem touchy, and ſo concerned in this caſe of marriages; as lothe to goe leſſe, or to be laid aſide, when as the <hi>through reform<g ref="char:EOLhyphen"/>ing</hi> genius of this age (which is againſt leaving any horns or hoofs of the Beaſt) wholly againſt root and branch, is ſo <hi>ſera<g ref="char:EOLhyphen"/>phically</hi> zealous, as it intends not only to pare the <hi>nayles,</hi> and ſhave the <hi>beards,</hi>
+               </q> but wholly to cut off the Antichriſtian hands and heads of all Miniſters: yea and to hew in pieces this old <hi>Amalekite</hi> of the ordained Miniſtry; Their all-conſuming Tophet is not only for diminiſhing, but quite extinguiſhing the order and ſucceſſion of ſuch Miniſtere; they burn, not only to mutilate, but utterly to an<g ref="char:EOLhyphen"/>nihilate the pretended power, peculiar office, and divine authority Miniſterial in the Church; (how Chriſtian, how Catholick, how ancient, how divine, how uſeful, how ſucceſſeful and bleſſed ſoever it hath been.)</p>
+            <p>They have (it ſeemes) found out cheaper prophets, and more compendious wayes of piety; ſo that they are not only for taking down the old exalted <hi>braſen Serpent</hi> of the Miniſtry, but for the beating it to powder; and making that <hi>Nehuſhtan;</hi> which the godly ſimplicity of our forefathers (even from the Apoſtles time) for 1600 years ever eſteemed as ſacred, moſt Chriſtian, and divine; the only ordinary means inſtituted by Chriſt, ſent and ſetled in all the world,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pheſ. 4.11, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.</note> for the planting and watering, the propagating and preſerving of the <hi>Church of Christ;</hi> Thus theſe Antiminiſteriall ſpirits.</p>
+            <p>Firſt, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>14</label> to the calumny of Miniſters ſelf-ſeeking in this point,
+<pb n="9" facs="tcp:163999:6"/>I muſt anſwer as I lately did in the caſe of Miniſters challenging that <hi>maintenance,</hi> which all Reaſon, Law, and Religion, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> God and man, give them; which none but profane, covetous, and ſacri<g ref="char:EOLhyphen"/>legious mindes, either envy, or ſeek to deprive them of.</p>
+            <p>That a <hi>groſſe ſtupidity</hi> or careleſſe indifferency doth in no ſort be<g ref="char:EOLhyphen"/>come diſcreet Miniſters in their civil and lawful concernments; it being no ſign of ſanctity, to forget humanity. 2. That many of theſe objecters who pretend to ſome <hi>Saintſhip,</hi> are yet ſo vigilant and intent to their ſecular profits and worldly preferments, that no <hi>Spider</hi> is more ſenſible of any Fly or prey that toucheth her cob<g ref="char:EOLhyphen"/>web ſnares. And Miniſters hope they may (without blame or ſcandal) follow ſuch examples, as daily teach them, that Religion is not alwayes ſtraight-laced as to be wholly mortified with ſelf<g ref="char:EOLhyphen"/>denyals. 3. That, in a caſe ſo honeſt, convenient, and comely, as this of Miniſters officiating in Chriſtians marriages, they doe not more plead for their own accuſtomed honor and advantages, than for the peoples, both eaſe, and benefit every way; who are gene<g ref="char:EOLhyphen"/>rally troubled, juſtly unſatisfied with, and much diſaffected to the new way. 4. That ſince able and worthy <hi>Miniſters,</hi> both as to their perſons and their function, finde ſo many ignorant detractors and envyous enemies: alſo ſo few generous <hi>Patrons,</hi> and aſſertors in this or any other duty or priviledge of their function, they are forced to fly to the patrociny of Gods protection, to magnifie their office againſt falſe and detracting Apoſtates, and to make their publique appeals to right reaſon, order, juſtice, and religion. 5. That, however it ſhould ſucceed in this point of marriages for the future with them, yet it very much becomes them, as men of learning, vertue, and courage; who have an eye beyond the fear or flattery of worms, (as in other things, ſo) in this of <hi>Marriages,</hi> to juſtifie their own former practice and judgement: Alſo to aſſert the honor and wiſdome of your and their pious anceſtors; who enjoyed more peace and happineſſe in one year, or month, than hath been diſcovered in many laſt paſt; or may be rationally hoped for, in a century of following years; if they ſhould be pregnant with monſtrous novelties and miſ-ſhapen productions: to the daily amazement of the world; more then the comfort, advantage, or improvement of any wiſe and ſober Chriſtians; that either dote not on bables, or are not ſcared with bugbeares.</p>
+            <p n="2">2<hi rend="sup">ly</hi> As to the <hi>Antiminiſterial</hi> menaces, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>15</label> and deſtructive humors of ſome people, I anſwer; That the ſo famous, learned, and moſt de<g ref="char:EOLhyphen"/>ſerving Miniſters of <hi>England,</hi> have indeed found by ſad experience, the ingrateful mindes of ſome men, the cruel and implacable malice of others; who have ſo much of <hi>Nabal</hi> and <hi>Judas</hi> in them, that they grudge the <hi>Miniſters</hi> of the Church of <hi>England</hi> ſo much as a cup
+<pb n="10" facs="tcp:163999:7"/>of gold water; while themſelves are ready to ſwallow (without ſcruple) whole <hi>Palaces,</hi> and great <hi>Cathedrals,</hi> goodly Mannors, and rich revenues, formerly given to, and enjoyed only by Church<g ref="char:EOLhyphen"/>men; That there is no doubt, but the drift of ſuch <hi>All-devouring Reformers,</hi> (who are the greateſt Factors for Atheiſm, profaneneſſe, and ſuperſtition) is to make the Miniſters of this Church, as the <hi>filth and off-ſcouring</hi> of all things; that the pretious ſons of Zion, who were heretofore comparable to fine gold, might be eſteemed as earthen pitchers, <hi>Lam</hi> 4.2. What wiſe man ſees not the doggedneſſe, of ſome men to be ſuch, that they rather fawn on thoſe, that can feed their bellies, then their ſouls? That either want of <hi>breeding,</hi> or depraved affections drive ſome people to ſuch <hi>Scythian fierceneſſe,</hi> that they have no veneration, or eſteem of any mans learning, knowledge, vertue, gravity, wiſdome, or piety; if they doe not (as in conſcience they cannot) concur with their ſacrilegious and in<g ref="char:EOLhyphen"/>jurious projects; who are therefore juſtly impatient of ſuch able and worthy <hi>Miniſters,</hi> as the Church of <hi>England</hi> formerly bred up, nouriſhed, and honored; becauſe theſe, as <hi>Eliah</hi> to <hi>Jezebel,</hi> or <hi>Mi<g ref="char:EOLhyphen"/>caiah</hi> to <hi>Ahab,</hi> doe moſt diſcover and upbraide, both by Scripture rules and holy examples, the exotick folly, the fanatick giddineſſe, the groſſe hypocriſie, the crying injuſtices, and endleſſe madneſſes of ſuch Antiminiſterial <hi>intruders;</hi> who are never to be ſeen, on the ſelf-denying part of Religion, being altogether for the Crown and Kingdome (as they call it,) nothing for the Croſſe of Jeſus Chriſt; ſtill <hi>dreaming, as</hi> Zebedees <hi>ſons, of ſitting</hi> at his right and left <hi>hand,</hi> judging the <hi>Tribes of Iſrael;</hi> but never mean to taſt of his <hi>bitter cup,</hi> or to be baptized with Chriſts baptiſm which was of his own, not other mens bloudſhed.</p>
+            <p>Theſe finding (to their great vexation) that hitherto they have got little or no ground againſt <hi>good Miniſters,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>16</label> either by writing, diſputing, praying, preaching, or better living; yea that by the courage and conſtancy of godly and learned <hi>Miniſters,</hi> their calum<g ref="char:EOLhyphen"/>niating folly is much diſcovered; and proceeds no further, (as to the Gangrene of popular credulity) ſo that they are looked upon (now) by all ſober and unflattering Chriſtians, as much inferior to their wonted excellent <hi>Miniſters,</hi> as the Aſſes loud and harſh braying was to the ſinging and <hi>Muſick of Apollo;</hi> It is no wonder, if their wrath grow fierce; if they meditate all <hi>extremities</hi> of inſolent and ſuperfluous malice, againſt <hi>true Miniſters;</hi> could they but once be Maſters of that power, which might anſwer their rage and deſpite; O what a ſacrifice would thoſe furious <hi>Jezebels</hi> make of the Prieſts of the Lord to their <hi>Baalims!</hi> But God and good men have hither<g ref="char:EOLhyphen"/>to preſerved a remnant of grave and good Miniſters, by keeping theſe curſt cows with ſhort horns; who are in nothing more concerned,
+<pb n="11" facs="tcp:163999:7"/>than to leave Miniſters nothing to doe, and nothing to enjoy; that ſo at laſt they may leave no true Miniſters living, of a <hi>Catholick Ordination;</hi> of <hi>Apoſtolical ſucceſſion;</hi> of <hi>Primitive authority;</hi> of duly tryed and approved ſufficiency; But rather bring on a <hi>mendicant</hi> and <hi>mercenary race,</hi> of new ſtampt Teachers; of popular Prophets; Pagan Paſtors; Plebeian peeces; ſons of the Earth; creatures of the vulgar, unliterated, unauthoriſed, untryed, unhallowed, un<g ref="char:EOLhyphen"/>ordained by any due authority; who are to aſſert their new calling, title and places, not by pregnant abilities, by ſober reaſons, Scrip<g ref="char:EOLhyphen"/>ture grounds, Eccleſiaſtick cuſtome, Primitive patterns, and dome<g ref="char:EOLhyphen"/>ſtick laws; but either by pretended inſpirations and ſoft aſſurances of grace, (which no man can try in another) or with ſuch argu<g ref="char:EOLhyphen"/>ments as thoſe uſed, who came to take Chriſt; <hi>ſwords and ſtaves;</hi> by tumults, faction, and ſedition: who (thus initiated) muſt preach, pray, and act, not by Scripture rules, or moral precepts, or humane laws, or Eccleſiaſtical order, but by providences, events, ſucceſſes, and intereſts; wherein their chymical heads, and hands are ſo very intent and buſied, that they are alwayes (by a circle of ſelf-preſer<g ref="char:EOLhyphen"/>vation) either diſtilling piety into policy; or extracting policy out of piety; Seeking to turn <hi>Sion</hi> into <hi>Babel;</hi> or building <hi>Sama<g ref="char:EOLhyphen"/>ria</hi> out of the ruines of <hi>Jeruſalem;</hi> And no wonder if thoſe that af<g ref="char:EOLhyphen"/>fect a levelling ſelf-exalting Magiſtracy, doe alſo affect a levelled and ſelf-ordaining Miniſtery; whoſe neceſſitous meanneſſe may make them alwayes dependents; and their dependency may pay the tribute of Pulpit <hi>paraſitiſm,</hi> and offering up the calves of their lips, more to man than to God.</p>
+            <p>But, as in all other main concernments, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>17</label> (which relate to reli<g ref="char:EOLhyphen"/>gion, and conſcience, life, and livelyhood, no leſſe than credit and reputation,) the Miniſters of <hi>England</hi> have hitherto found in great meaſure the merciful power of God, and the juſt protection of worthy men; So they have never been ſo partial to themſelves, as to refuſe any competent Judges; (not declaredly their enemies).</p>
+            <p>Alſo in this matter of <hi>marriages,</hi> they dare appeal, and doe hum<g ref="char:EOLhyphen"/>bly ſubmit to, the impartiality, and prudence of your ſelves, and others; who now ſit in the place and bear the name of <hi>Parliamen<g ref="char:EOLhyphen"/>tary</hi> power: Not doubting, but upon the recognition of the bu<g ref="char:EOLhyphen"/>fineſſe, your wiſdome will eaſily diſcern, as the little and weak mo<g ref="char:EOLhyphen"/>tives to ſo great a change; ſo the grand inforcements of reaſon, civility and religion, which prevailed in the former eſtabliſhment; which ſo required the Miniſters religious aſſiſtance in the ſolemnity of marriages, among ſober Chriſtians, that none was legitimate or valid without them.</p>
+            <p>I know it is needleſſe, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>18</label> for me largely to ſuggeſt to <hi>Gentlemen</hi> of your knowledge and wiſdome; How much in the lawful and holy
+<pb n="12" facs="tcp:163999:8"/>
+               <hi>marriages</hi> of Chriſtians, the glory of the Creator is concerned; How much the ſanctity of Chriſts Incarnation is to be remembred; How much the honor of Humanity is to be regarded; How much the exemplary modeſty due to Civill and Chriſtian Societies is to be maintained; How much the good and edification of the Church is to be tendered; How much need there is of grave inſtruction, of good exhortation, of holy admonition, of earneſt ſupplica<g ref="char:EOLhyphen"/>tion, of ſolemn adjuration, and of comfortable benediction in the <hi>name of God;</hi> whereby to raiſe up the carnall mindes of peo<g ref="char:EOLhyphen"/>ple, from what is brutiſh and only natural or humane in mar<g ref="char:EOLhyphen"/>riage, to what is ſpiritual, Chriſtian, and divine; Since no charms or bands can be too ſtrong, and potent, whereby to ob<g ref="char:EOLhyphen"/>lige both parties to their duties; to ratifie ſo inviolable a con<g ref="char:EOLhyphen"/>junction; to keep their paſſions, and affections from all licenti<g ref="char:EOLhyphen"/>ous extravagancies; To bring them to reverence God and nature; to ſanctifie his holy Name, in the allowed indulgences; To look with an holy regard to the great and eternal end of marriage, be<g ref="char:EOLhyphen"/>yond the momentary pleaſure of the <hi>means;</hi>
+               <note place="margin">
+                  <hi>Fr. Bacons</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayes.</note> to which, as my Lord St. <hi>Albans</hi> obſerves, the peopling of the world is moſt beholden.</p>
+            <p>Certainly there are ſo many marks of honor and holineſſe, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>19</label> by divine and humane authority, ſet upon the banner of <hi>marriage,</hi> in all ages among ſuch as ſeared the true God, that they cannot but mightily ſway the judgements and excite the conſcience of wiſe and religious men; ſtill to preſerve the priſtine veneration and eſteeme of that ſo ſacred and myſterious tranſaction.</p>
+            <p>As firſt,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2.</note> 
+               <hi>Gods immediate inſtitution,</hi> with ſolemn declaration and divine benediction; who himſelf made the firſt match: He built, brought, and gave to man the firſt wife: In whoſe ſtead, firſt the fathers of families; afterward the Levitical Prieſts; now the Evangelical Miniſters, are as the ordinary means and conduits to convey to Gods people divine <hi>benediction,</hi> and graces, in the name, according to the Word, and by the Spirit of <hi>the ſame God,</hi> the firſt Inſtitutor of holy marriage.</p>
+            <p>In the paternal Prieſthood, which continued till <hi>Moſes</hi> his time, the holy Fathers of families were not only careful to have their children marry prudently as to eſtate and kindred, but alſo piouſly as to the true religion profeſſed. So was <hi>Abraham</hi> for <hi>Iſaac,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. 24.3. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. 27.46.</note> ſo <hi>Iſaac</hi> and <hi>Rebecca</hi> for <hi>Jacob</hi> and <hi>Eſau;</hi> That they might in marrying enjoy the bleſſing of God, a means, Type, or Embleme of which was that of paternal and ſacerdotal bene<g ref="char:EOLhyphen"/>diction.</p>
+            <p n="2">2<hi rend="sup">ly</hi> Among the <hi>Jews</hi> after the <hi>Moſaick</hi> Law,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt. 20.</note> the light of <hi>Nature,</hi> and traditional Divinity (agreeable to the Scriptures, was ſo clear and convincing, as to the ſanctity and ſolemnity of their mar<g ref="char:EOLhyphen"/>riages,
+<pb n="13" facs="tcp:163999:8"/>that they eſteemed it the <hi>holy Covenant</hi> of their God;
+<note place="margin">Prov. 2.17. Mal. 2.14. Numb. 5.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> The trial of which in point of jealouſie was to paſſe before <hi>the Prieſt,</hi> with ſolemn <hi>execrations;</hi> Not only the parents and friends be<g ref="char:EOLhyphen"/>ſtowed their bleſſings, verbal and real, by prayers, and gifts, but the Levitical Prieſt (and Congregation, as ſome learned men ſup<g ref="char:EOLhyphen"/>poſe) alſo added to the ſolemnity, by ſuch forms of bleſſing, as were proper for that occaſion, reciting (as other paſſages in Scrip<g ref="char:EOLhyphen"/>ture) ſo that <hi>Pſalm.</hi> 128. which is the Pſalm of marriage bleſſing,
+<note place="margin">Pſal. 128.</note> uſed with other proper Scriptures in that office of marriage.</p>
+            <p n="3">3<hi rend="sup">ly</hi> In the <hi>New Teſtament,</hi> we read the beloved Diſciple St. <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>21</label> 
+               <hi>John</hi> emphatically recording the preſence and firſt <hi>miracle</hi> of Chriſt at a marriage; As if he would thereby teach Chriſtians,
+<note place="margin">Joh. 2.</note> that conjugal love ought to be <hi>Chriſtiened,</hi> before it be conſummated: That our demeanor in thoſe <hi>ſolemnities</hi> and feſtivals ought to be ſuch as became Chriſts converſation; which certainly, was not only civil and ſocial, but to ſome ſpiritual, and gracious advan<g ref="char:EOLhyphen"/>tage; That we can never expect a marryed eſtate ſhould be bleſſed, or happy, unleſſe Chriſt be there in holy duties, and to the beſt advantages of Piety: Nor now in his bodily preſence (as then he was) but in his Deputies,
+<note place="margin">Mat. 28.20</note> and Miniſters, who are to ſupply Chriſts viſible preſence and external Miniſtry in his <hi>Church, to the end of the world:</hi> who, while he ſtrictly confirms the <hi>Moſaick</hi> bond of marriage, by that prohibition againſt cauſeleſſe divorces; <hi>Thoſe whom God hath joyned together, let no man put aſunder,</hi>
+               <note place="margin">Mat. 19 6</note> intimates clearly, that the tyes of conſcience in marriage and its comforts are ſo much the firmer, by how much God is moſt evident in their marriages, by the preſence of his Miniſters, with the Word and Prayer, invocating Gods grace, bleſſing and Spirit, upon the mar<g ref="char:EOLhyphen"/>ried parties in the name of Jeſus Chriſt, the holy and only Spouſe of the Church and all true believers.</p>
+            <p n="4">4<hi rend="sup">ly</hi> The Apoſtle St. <hi>Pauls</hi> judgement of the holineſſe,
+<note place="margin">Epheſ. 5.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Heb. 13.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>honorable<g ref="char:EOLhyphen"/>neſse</hi> and <hi>myſteriouſneſſe</hi> of marriage among Chriſtians is ſuch as doth evidently imply, that it is beſt begun in the fear of the Lord, carryed on with the love of Chriſt; and cannot in Chriſtian ſo<g ref="char:EOLhyphen"/>ciety be worthily ſolemnized without ſome ſuch modeſt, reverend and uſeful form, as is moſt comely for the occaſion, and moſt tends <hi>to the edification</hi> of Chriſtians; According to thoſe general rules of Chriſtian prudence,
+<note place="margin">1 Cor. 14.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> which commands us to <hi>doe all things decent<g ref="char:EOLhyphen"/>ly,</hi> and in <hi>order;</hi> and to the Churches edifying in love. Alſo take care that all things be <hi>ſanctified by the Word of God and prayer;</hi>
+               <note place="margin">1 Tim. 4 5</note> Which are preſumed then beſt done, when by the aſſiſtance of thoſe mens gifts and piety whom God hath appointed in the Church for thoſe ends, and who ought of all men moſt to give themſelves to the <hi>Word and Prayer,</hi> for the Churches good, upon all occaſions:
+<pb n="14" facs="tcp:163999:9"/>and very juſtly upon this; as a buſineſſe of civill and religious polity; which if honorable in all Nations, and ſorts of people, what reaſon can be given, why among Chriſtians any diſhonor, and vilifying ſhould be caſt upon it; by making of ſacred, only civill, and in ſome ſenſe common profaneneſſe?</p>
+            <p>The Primitive practiſe, ſo far as we are by the writings of the <hi>Fathers,</hi> or others acquainted with the cuſtomes of thoſe times, was ſuch, as became the name of Chriſt and profeſſion of Chriſti<g ref="char:EOLhyphen"/>ans;
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1.5. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>deburg. cen<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> 2 <hi>de rit. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>im.</hi>
+               </note> who were <hi>holy in all manner of holy converſation;</hi> And in this of marriage they were ſo devoutly ſolemn, that the ſuperſtition of after times by miſtake raiſed <hi>Matrimony</hi> to an Evangelical Sacra<g ref="char:EOLhyphen"/>ment; properly ſo called; and ſo, only under the <hi>Ministerial au<g ref="char:EOLhyphen"/>thority</hi> and ſpecial power to conſecrate it, as a great, and holy <hi>Myſtery.</hi>
+            </p>
+            <p>
+               <hi>Baronius</hi> and others tell us,
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 1. <hi>Concil.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>6.</note> in the year of Chriſt 97. <hi>Euariſtus</hi> Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Rome,</hi> in an Epiſtle to the <hi>Africans,</hi> tels them, it was an Apoſtolical cuſtome to have parents or friends conſent, and the praying of the Church with the Sacerdotal bleſſing in marriages of Chriſtians: if this be authentick.</p>
+            <p>So <hi>Anno Chriſti</hi> 174.
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>i. n. Sot.</note> 
+               <hi>Platina</hi> tels us that it was as a Canon of the Church, that no marriages ſhould be celebrated by Chriſtians but with publique devotion.</p>
+            <p>I omit that of <hi>Justin Martyr</hi> in <hi>Epiſt. ad Epheſios,</hi> as of leaſt credit.
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n. Alex.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <hi>l.</hi> 3. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 132. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſ. ed.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp;c. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tul. l.</hi> 2. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>uxor. c.</hi> 6. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Dei men<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> quae Chri<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>vocatio! ubi <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>enta fidei <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> cripturae <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> one! ubi <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>itus refrigerium; ubi divina benedictio! &amp;c.</hi>
+               </note>
+            </p>
+            <p>
+               <hi>Clemens</hi> a Presbyter of <hi>Alexandria</hi> (who flouriſhed in the ſecond <hi>century</hi>) adviſing women againſt the needleſſe uſe of falſe <hi>hair,</hi> to augment their own treſſes, and impoſe upon their ſuiters; urges this, as a groſſe abſurdity; that when in their marriage the Preſ<g ref="char:EOLhyphen"/>byter or Miniſter of the Church, ſhall lay his hand on their heads, (as the cuſtome then was) to bleſſe them; he ſhall rather touch, and ſo bleſſe the falſe hair and head of one dead, than of her living, and which he counts a reproach to God and man; urging that place that the head of the woman is the husband, and the head of the <hi>husband, is God:</hi> Intimating, That as they carefully uſe the du<g ref="char:EOLhyphen"/>ties of true Religion; ſo they ſhould content themſelves with the true ornaments of nature.</p>
+            <p>
+               <hi>Tertullian</hi> alſo who lived in the beginning of the 2. <hi>century,</hi> after Chriſts birth, (in the Primitive, and perſecuted times) dehorting his wife (in caſe ſhe outlived him) from marrying to an unbeliever, uſeth theſe expreſſions, referring to the holy and comfortable manner of marriage, among Chriſtians; <hi>That in ſuch unſanctified and unbleſſed marriages</hi> with Infidels, there can be nothing ſacred to initiate
+<pb n="15" facs="tcp:163999:9"/>the <hi>myſterious ſolemnity;</hi> No <hi>mention</hi> of God; no <hi>invocation</hi> of Chriſt; no <hi>Scripture fuel,</hi> adminiſtred to <hi>maintain,</hi> and excite the <hi>light and heat of faith</hi> and divine love; no <hi>refreſhings of the holy Spirit;</hi> no be<g ref="char:EOLhyphen"/>nediction in the name of God.</p>
+            <p>So he tels us,
+<note place="margin">Lib. de pudic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> c. 4. <hi>Occultae<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> conjunctiones non prius apu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Eccleſiam pro<g ref="char:EOLhyphen"/>feſſae juxtamaechiam, &amp; fornicatioren judicari periclitantur</hi>
+               </note> that ſecret marriages not publiquely profeſſed and celebrated in the Church, are next to the ſcandal and ſhame of for<g ref="char:EOLhyphen"/>nication.</p>
+            <p>Again the ſame <hi>Tertullian,</hi> more clearly and preciſely to my pur<g ref="char:EOLhyphen"/>poſe; commending the happineſſe of thoſe marriages which are with pious and wonted ſolemnities celebrated in the Church of Chriſt: Thus;
+<note place="margin">Cap. 9. L. 2. ad. ux. <hi>
+                     <g ref="char:V">Ʋ</g>nde ſufficiam ad enarrandam ſelicitatem eju Matrimonit, quod Eccleſiae conciliat, &amp; confirmat obla<g ref="char:EOLhyphen"/>tio, &amp; ob<g ref="char:EOLhyphen"/>ſignatum angeli renunciant, &amp; Pater ratum haber<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </note>
+               <q>
+                  <hi>What words ſhall I uſe ſufficient to ſet forth the feli<g ref="char:EOLhyphen"/>city of that Manrimony, or thoſe matches, which the Church of Chriſt makes up; which (oblations)</hi> (i. e.) <hi>the joynt offering of prayers and praiſes to God, the reception of the holy Communion; and the charitable donations to the poor doe confirm; which the Angels (or Miniſters) of the Church doe ſolemnly proclaim, being ſignified and ſealed by mutual conſent, which God the Father of all, (both in nature and in the Church) doth by his bleſſing ratifie or eſtabliſh?</hi>
+               </q>
+            </p>
+            <p>Upon which words <hi>Franciſcus Junius,</hi>
+               <note place="margin">Fran. Jun. No<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tae in Ter. L<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> cum, <hi>Quator<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hic ponuntur conjugii. inter fideles elogia, &amp;c.</hi>
+               </note> (one of the moſt learned Proteſtant Divines) thus paraphraſeth in his notes upon <hi>Tertullian,</hi> Here (ſaith he) <hi>Tertullian</hi> expreſſeth four commendable things in the marriages of Primitive Chriſtians. 1<hi rend="sup">t</hi> They did not only fol<g ref="char:EOLhyphen"/>low the dictates of nature, but took the directions, and rule of the Church of Chriſt. 2<hi rend="sup">ly</hi> They preſented themſelves (for ſo he explains <hi>oblatio</hi>) before the Congregation in the publique ſervice of God, expreſſing their mutual conſents, and enjoying the joynt prayers of the Church. 3<hi rend="sup">ly</hi> The Miniſters, (which are as the meſſen<g ref="char:EOLhyphen"/>gers or Angels of God in his Church) did with holy inſtruction, ſolemn benediction, declare the marriage vow, covenant, as in the name and preſence of God. 4<hi rend="sup">ly</hi> That they had from hence the comfort, and hope, that <hi>God their Father</hi> in heaven, bleſſed and con<g ref="char:EOLhyphen"/>firmed ſuch orderly and conſecrated marriages on earth.</p>
+            <p>Thus <hi>Junius:</hi> at once expreſſing his approbation of the ancient <hi>Chriſtians cuſtome;</hi> and of the beſt reformed Churches practiſe; agreeable whereto that in <hi>England</hi> was, as to the main, moſt exactly conſonant.</p>
+            <p>St. <hi>Ambroſe</hi> tels us, as the uſe of his times, in the the beginning of
+<pb n="16" facs="tcp:163999:10"/>the fourth Century;
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mb Epiſt. l. 9. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 70. ad! Vi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ium. <hi>Conju<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um velamine <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cerdotali &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nedictione <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctificari o<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tet.</hi>
+               </note> That marriages of Chriſtians ought to be ſanctified by the Biſhop or Presbyter in the publique Congregation; who put upon the Bride and Bridegroome a vail in token of modeſty and chaſtity.</p>
+            <p>That they were wont to come to the holy Table or Communi<g ref="char:EOLhyphen"/>on Altar, who were to be marryed by the Miniſter.</p>
+            <p>That the marryed parties expreſſed their conſent and love by a Ring given and received:
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mb. de Inſti. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rgi. c. 17. <hi>(<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tarihus tuis) <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſtit non <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mmeo nuptia<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> &amp;c.</hi> Amb. ſerm. 9. de Agnete. <hi>Annulo fidei ſuaeſubarrhavit me Chriſtus.</hi>
+               </note> to which the holy Virgin <hi>Agnes</hi> alludes, when he brings her in ſaying, that Chriſt Jeſus had wedded her to himſelf with the ring of Faith, <hi>&amp;c.</hi>
+            </p>
+            <p>St. <hi>Auſtin,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt. lib. de <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>no conjugal. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 18. <hi>In no<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>atium nuptiis <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us valet ſan<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tas Sacramen<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> quam foe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nditas uteri.</hi>
+               </note> in his Book of the Benefit of marriage, hath this excellent commendation of Chriſtians modeſty and ſanctity in their marriages; That they much more regarded the holy Sacra<g ref="char:EOLhyphen"/>ment, or Myſtery in it, than the natural pleaſure of poſterity by it. Nor doth he ſcruple oft to cal the marriages of the faithful an holy Sacrament, in the latitude of that ſenſe which the word then did bear in the dialect of Chriſtians. In his Tract of <hi>Faith and Works,</hi> thus he ſpeaks;
+<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Bono Con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g. cap. 24. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. de fide &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eri. c. 7. <hi>In <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vitate Domi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, in monte <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cto ejus, hoc <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in Eccleſia, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ptiarum non ſolum vinculum, ſed etiam Sacrament um commendatur.</hi>
+               </note> In the City of the Lord, in his holy Mount, (the Church of Chriſt,) not only the civil bond of marriages, but alſo the holy Myſtery or Sacrament of it is commended; Namely by the holy regard Chriſtians had to Chriſt; and the holy duties they uſed in the Church to ſanctifie the name of the Lord in their marrying.</p>
+            <p>St.
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ryſoſt. in Gen. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in Epheſ.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Chryſoſtome</hi> in his Commentary on <hi>Gen.</hi> 2. and on the 5. ch. of the <hi>Epheſians,</hi> and other where largely, and after his <hi>manner,</hi> moſt eloquently ſets forth the honor, duties, and ſacred myſteries to be conſidered in the marriages of Chriſtians; which he ſays, God from the firſt took care of, and which he commends, not as a na<g ref="char:EOLhyphen"/>tural or civil relation only, but as a ſacred bond to us; and ſuch as falls not more under the care of the civil Magiſtrate, than of the Miniſter of the Church; The one lookes to their age, eſtates and conſents, as men; The other to their graces, and bleſſings, as Chriſtians: The one conſiders the Citizens, which may thence ariſe to earthly ſocieties; The other prepares them by prayer, inſtitution and benediction for the polity of heaven, the new Jeruſalem.</p>
+            <pb n="17" facs="tcp:163999:10"/>
+            <p>
+               <hi>Syneſius,</hi> who lived in the beginning of the fifth Century,
+<note place="margin">Nicepho. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> l. 14. c. 55 <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Omnibus prae<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dico, teſtatu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> que volo, m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> illam prorſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> deſerturum n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> eſſe, quam mi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> &amp; Deus ipſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> &amp; leges, ipſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſacra</hi> Theop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> li <hi>manus ux<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> rem dedit.</hi>
+               </note> being by the choice of the Citizens of <hi>Ptolemais,</hi> and the conſent of <hi>Theo<g ref="char:EOLhyphen"/>philus</hi> Biſhop of <hi>Alexandria,</hi> deſigned Biſhop of <hi>Ptolemais;</hi> Thus writes to his brother <hi>Euopius;</hi> excuſing himſelf, as unfit for ſo great a dignity, and burthen; That (among other diverſions of life, which indiſpoſed him to that <hi>high Office</hi>) He was <hi>married;</hi> nor would he part with <hi>his wife,</hi> which God, and the laws, or Canons of the Church, and the <hi>holy hands</hi> of <hi>Theophilus</hi> himſelf had given to him.</p>
+            <p>The fourth Council of <hi>Carthage</hi> (Century fourth) teſtifies, that it was the ancient and uſual cuſtome for Parents, to expreſſe their conſent to their childrens marriage,
+<note place="margin">Carthag. c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cil. 4. can. <hi>
+                     <g ref="char:V">Ʋ</g>ſitatum eſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ut ad teſtific<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dum parentur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> conſenſum ſpo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſus &amp; ſpo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſa a parenti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in Eccleſia ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> cerdoti bene<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> cendi offeran<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tur.</hi> Socrat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hiſt. Eccl. l. 5 c. 5.</note> by offering them to the Mi<g ref="char:EOLhyphen"/>niſters of the Church, that they might by them be publiquely bleſſed; when they were firſt examined touching their faith in Jeſus Chriſt, and other articles of Chriſtian religion.</p>
+            <p>So the <hi>Lateran</hi> ſecond Council, <hi>Cant.</hi> 51. appoints marriages to be publiſhed with convenient delayes in the Church by the Pres<g ref="char:EOLhyphen"/>byter or Miniſter; that there may be no impediments when they are to be bleſſed and declared.</p>
+            <p>
+               <hi>Iſidore</hi> Biſhop of <hi>Sevil</hi> in <hi>Spain,</hi> in the year 605. tels the cuſtome of the Church in thoſe dayes was, That the Biſhop or Miniſter of the Church did alwayes bleſſe the marryed parties, after the ex<g ref="char:EOLhyphen"/>ample of God, at the firſt marriage, made between man and wo<g ref="char:EOLhyphen"/>man: That after the Prieſtly bleſſing,
+<note place="margin">Iſidorus Hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> palen. de of Eccl. l. 2. c. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Jam quod in ipſa conjuncti<g ref="char:EOLhyphen"/>one connubii<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſacerdote ber<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dicuntur, h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c Deo in prima<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> conjunctione <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ctum. Hac <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> militudine fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> nunc in Eccleſia, quod tunc factum eſt in Paradiſo.</hi>
+               </note> the parties were by a rib<g ref="char:EOLhyphen"/>band, white and purple coloured, wound about both their arms, as it were tyed together, in ſign of their holy and inſeparable band. That the Bridegroome alſo gave
+<note n="*" place="margin">
+                  <hi>Ad perpetuam vinctionem &amp; individuam con<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> gatorum ſocietatem annulus ſpectabant.</hi> Scaliger de Arte Poet.</note> a ring to the Bride, as a token of endleſſe or eternal love, &amp;c.</p>
+            <p>
+               <hi>Zonar tom.</hi> 3. cals the whole celebrity of marriage in the Church, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) The Prieſtly conſummating or conſecrating of marriages, ſpeaking of the marriage of <hi>Conſtantine</hi> and <hi>Zoes</hi> the Empereſſe.</p>
+            <p>Thus holy Antiquity generally practiſed, eſpecially among Chriſtians turned from Heathens, whoſe cuſtomes ſuperſtitiouſly ſacred, they rayſed and improved to ſuch ſolemnities as moſt became the honor of Chriſtianity, which had the ſubſtance and truth of thoſe ſhadows, which either <hi>Jews</hi> or <hi>Gentiles</hi> fancyed,
+<note place="margin">Selden. ux. braical. 2. c. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Ritus benedi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ctionis ſacrae ac celebrationis nuptialis a Miniſtro ſacro peragendae uſus obtinet, ac per plurima ſetula <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> nuit paſſim tum in Oriente tum in Occidente.</hi>
+               </note> as to things ſacred or religious. All which, a Gentleman of immenſe learning, and no partial friend to the honor or intereſt of the Clergy of <hi>England,</hi>
+               <pb n="18" facs="tcp:163999:11"/>confeſſeth to have been the conſtant (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) among all Eaſtern and Weſtern Chriſtians, Reformed and Pontifician, for many ages paſt, in the ſacred celebration of marriages by the Miniſters of the Church.</p>
+            <p>What the judgment of the Churches <hi>Roman</hi> communion is, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>22</label> touch<g ref="char:EOLhyphen"/>ing marriage,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>cil. Tride. matrim. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llar. Tom.</hi> 3. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <hi>c.</hi> 2 <hi>&amp;</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.33.</note> as a Sacrament properly ſo called, ſufficiently appears in the determination of the <hi>Tridentine Council,</hi> which <hi>Bellarmine</hi> and others indevour to aſſert, by proving (or rather ſuppoſing) three things, eſſential to a Sacrament, to bein Matrimony, 1. Di<g ref="char:EOLhyphen"/>vine <hi>Inſtitution;</hi> 2. Divine <hi>ſignificancy;</hi> 3. <hi>Divine grace conferred;</hi> And theſe, ſaith he, not ſo much to be conſidered in the firſt contract, or ſolemn celebration; as in the continued ſocial union of man, and wiſe; which is ſacred and inſeparable, while they live as be<g ref="char:EOLhyphen"/>comes Chriſtians; who thereby (as he tels us) repreſent the indiſ<g ref="char:EOLhyphen"/>ſoluble bond of love and ſpiritual communion between Chriſt and his Church;
+<note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>heſ. c. 5.</note> (which St. <hi>Chryſoſtome</hi> makes rather a myſtical Al<g ref="char:EOLhyphen"/>legory, than a Sacrament:) and obtaining hereby daily thoſe in<g ref="char:EOLhyphen"/>creaſes and confirmations of divine grace, which ſaith the Cardi<g ref="char:EOLhyphen"/>nal are conferred upon ſuch, as hold this ſacred Covenant, or Myſterie and Sacrament, in a pure heart, and with a good con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>Certainly all thoſe that are of the <hi>Roman</hi> profeſſion, doe ſo ne<g ref="char:EOLhyphen"/>ceſſarily require the office of ſome Evangelical Prieſt or Miniſter, to conſecrate, ratifie and bleſſe Chriſtian Marriages; that without it, they muſt needs eſteeme all <hi>conjugating</hi> but <hi>fornicating,</hi> and all poſterity ſo produced, not to be beyond the reproach of <hi>Baſtardy.</hi>
+            </p>
+            <p>Now it no way becomes Chriſtian <hi>charity</hi> ſo to ſtudy ſides, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>23</label> and factions in religion, as to multiply offences, to widen ſeparations or inflame diſaffections, by unneceſſary differences; Truly I can<g ref="char:EOLhyphen"/>not but here freely confeſſe, That as it ſeems not only to me, but to far wiſer and better judgements, a great diſadvantage brought upon the Church of <hi>England,</hi> and the reformed Religion here profeſſed, to remove and quite extirpate, (as the immoderation of ſome men have ſought to doe at the expenſe of much treaſure, many lives, and the beſt bloud of <hi>England</hi>) the ancient, and Ca<g ref="char:EOLhyphen"/>tholick order and government of a moderate and paternal Epi<g ref="char:EOLhyphen"/>ſcopacy; And herewith alſo, that regular ordination and ſucceſ<g ref="char:EOLhyphen"/>ſion of Miniſters, duly tryed, bleſſed and appointed to the ſer vice of Chriſt and his Church by Biſhops and Presbyters in the preſence of the people; (which truly was a great deſenſe of us, againſt the calumnies of thoſe Papiſts, who were moſt bitter againſt us, either as Hereticks or Schiſmaticks; for it very much took off and blunted the edge of their malice, and heat of their diſputes againſt
+<pb n="19" facs="tcp:163999:11"/>us, while we were able to juſtifie an holy, and lawful ſucceſſion uninterrupted, as to the Miniſterial Office and power, reſiding in Biſhops with their Presbyters; which ſince the Catholick pra<g ref="char:EOLhyphen"/>ctiſe and judgement of the Churches Chriſtian in all places and ages, from the firſt primitive perſecuted and moſt unſuſpected times had joyned together, (agreeable to the divine pattern, the Apoſto<g ref="char:EOLhyphen"/>lical precedents, all rules of holy order, and principles of right reaſon in government) It will never ſeem (to unpaſſionate men and times, who hope to gain nothing by the ruine of Epiſcopacy) either commendable, or except in caſes of civill force and neceſ<g ref="char:EOLhyphen"/>ſities, (as are pleaded for ſome few reformed Churhes) juſtifiable cauſleſly to divide Biſhops and Presbyters a ſunder, by a violent diſſection, and voluntary tearing in pieces ſuch a renowned Church as this of <hi>England</hi> was, which cannot but hold very much in the opinion of our adverſaries to the queſtioning or annulling of all divine Office and authority in Miniſters; and in the duties they perform.</p>
+            <p>In like manner here, as it muſt needs inlarge the breach, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>24</label> ſo it cannot but further augment the ſcandals and reproaches, which will be caſt upon us and our poſterity (not only, as to Eccleſia<g ref="char:EOLhyphen"/>ſtical power and ſucceſſion Miniſterial: but even as to Civill ho<g ref="char:EOLhyphen"/>nor (and natural derivation;) while the <hi>Papiſts</hi> ſhall (to their great content) behold, how (much under the notion of <hi>further-re<g ref="char:EOLhyphen"/>formation</hi>) we degrade and abaſe the honor of this Nation and Church, not onely in the authority and ſucceſſion of Miniſters, (poorly tryed, and pitifully ordained:) but alſo of our perſons and <hi>poſterities;</hi> by withdrawing all ſacred ſolenmity and benedi<g ref="char:EOLhyphen"/>ction from our <hi>marriages; proſtituting</hi> them to plebeian looſeneſſe, and vulgar profaneneſſe, So that in after ages neither the ſpiritual nor natural ſucceſſion, (either as Chriſtians, or as men) will by the greateſt part of the Chriſtian world be counted as legitimate; if we have neither lawful Miniſters ordained, for our ſpiritual Fathers, nor lawful Marriages ſolemniſed for our natural parents: but both will be thought, by our adverſaries, and reproachfully ob<g ref="char:EOLhyphen"/>jected againſt us as baſe and ſpurious.</p>
+            <p>The diſhonor or proſtitution of which, the beſt reformed Churches in all other Countries (as well as in <hi>England</hi>) were ſo careful to avoid by their confeſſions of doctrine, and by their Litur<g ref="char:EOLhyphen"/>gies, that they ſtill ſought by all means to preſerve the reverend and holy eſteeme of marriage by thoſe Scripture forms and holy ſolemnities they appointed and uſed in the publique celebration of marriages by their Eccleſiaſtical Miniſters onely; as at large ap<g ref="char:EOLhyphen"/>pears in the <hi>Dutch</hi> and <hi>French</hi> Liturgies, with others.</p>
+            <p>And however they did not come up to the <hi>Roman</hi> opinion, That
+<pb n="20" facs="tcp:163999:12"/>Matrimony was properly a Sacrament;
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rdus de <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ug. pag. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. S.</hi> 462. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mnitius <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. Concil. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d. de matri. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 256. <hi>Li<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er aliquo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> &amp; Sacra<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tum voca<g ref="char:EOLhyphen"/>conjugium; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>praeclarius <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uguſtius Eccleſia de <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gio &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>endum &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>endum mo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us.</hi>
+               </note> yet they owned it as a myſterious embleme, and in ſome ſenſe a ſacrament or honorable and holy ſign of <hi>divine love,</hi> and Chriſts communion with his Church; whereto they were induced by the divine <hi>Inſtitution;</hi> by the ſacred alluſions in Scripture ſpeaking of Gods <hi>Eſpouſing</hi> and <hi>marrying</hi> of his Church; by the Honor Chriſt <hi>conferred</hi> upon it; by the Apoſtles high expreſſions to the dignifying of Chriſtians mar<g ref="char:EOLhyphen"/>riages as honorable, and their children as holy: Alſo by the judge<g ref="char:EOLhyphen"/>ment and anſwerable practiſe of pious Antiquity, in all ages of the Church; who perfectly abhorred the devilliſh opinions of thoſe hereticks, <hi>Simon Magus,</hi> and his ſcholar <hi>Saturninus;</hi> the <hi>Gnoſticks, Manichees, Tatianus,</hi> and others (of moſt profligate lubri<g ref="char:EOLhyphen"/>city) who denyed Matrimony to be of God; That it had nothing ſacred or Chriſtian;
+<note place="margin">
+                  <p>
+                     <hi>opus he<g ref="char:EOLhyphen"/>matrimo<g ref="char:EOLhyphen"/>reliquiſt is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>em a ſcele<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſate.</hi> Salv. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ub. contra <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>games.</p>
+                  <p>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>em. Alex.</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>: <hi>Tertul. de monogam. Iren. l.</hi> 1. <hi>c.</hi> 22. <hi>Juſt. de haereſ. Jerom. l.</hi> 1. <hi>cont. Jovin. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ide deus pro rei honeſtate conjugio henedixit.</hi> Tertul. l. cont. Marcio.</p>
+               </note> That it was from the Devil; and was but the neceſſity, ſin and burthen of humane nature; againſt which <hi>Tertullian, Irenaeus, Clem. Alexandrinus,</hi> St. <hi>Austin, Jerome,</hi> and others of the Ancients juſtly inveigh, as againſt perſons of profane ſpirits; and advancers of the doctrine of Devils, while they decryed and debaſed marriage; which ſaith <hi>Tertullian,</hi> God, foreſeeing ſome mens blaſphemies, providently bleſſed; to vindicate and perpetuate its honor againſt their reproaches.</p>
+            <p>Which not only the beſt Chriſtians in all ages, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>25</label> and the moſt famous Churches (as is evident) in all the world did with an high and holy veneration celebrate and ſanctifie to the glory of the Creator, and of Jeſus Chriſt their bleſſed Meſſias, their in<g ref="char:EOLhyphen"/>carnate Redeemer;
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orf. Synag. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i. c.</hi> 38.</note> but the <hi>Jews</hi> as of old times to this day look upon it, not only with civill, but ſacred regards; Having not only ſignal eſpouſals,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>utio de<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>atorum.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lictio con<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orum.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 4 11.</note> contracting or betrothing, by gifts, dowry, and writing declared before friends and parents; But they uſed, and uſe alſo holy rites and religious ſolemnities, which were per<g ref="char:EOLhyphen"/>formed in the aſſembly of ten at leaſt, with bleſſings and thankſ<g ref="char:EOLhyphen"/>giving to God by ſome perſon of prime honor and ſanctity in the family, who herein ſometimes acted, in the right and form of ſacerdotal primogeniture, or as Father and Prieſt in the fa<g ref="char:EOLhyphen"/>mily.</p>
+            <p>The form of their eſpouſals, marrying, and benediction; is ſtill extant in the writings of the Rabbins; as <hi>Genebrard</hi> and others recite.
+<q>
+                  <hi>Bleſſed be the Lord our God, King of the world, who hath created man after his own Image; and hath thereby prepared to him<g ref="char:EOLhyphen"/>ſelf an everlaſting building: Bleſſed art thou O Lord our God, who haſt
+<pb n="21" facs="tcp:163999:12"/>createed joy and gladneſſe, the Bridegroome and the Bride, charity and brotherly love, rejoycing and pleaſure, peace and ſecurity; We beſeech thee O Lord let there be heard in the Cities of</hi> Judah, <hi>and the ſtreets of</hi> Jeru<g ref="char:EOLhyphen"/>ſalem, <hi>the voyce of joy and gladneſſe; the voyce of the Bride and Bride<g ref="char:EOLhyphen"/>groome; the voyce of exaltation in the Bride chamber, which is ſweeter then any feaſt; and of children ſweeter than the ſweetneſſe of any ſong.</hi>
+               </q> The company invited following the Maſter of the Feaſt, comprecated all bleſſings on them by that (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) which was their uſual form; wiſhing them the influences of propitious and good ſtars from heaven; And a learned <hi>Miniſter</hi> tels us,
+<note place="margin">Plin. l. 3 de. Annu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ferteo ſim <hi>Que ſponſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pignoraſſer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Annulum <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> nubum vo<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Terrul. d<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> tu foem. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Locus ben<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ctionis.</hi> Luk. 1.</note> that the Bridegroome gave the Bride a <hi>Ring,</hi> (as the Heathens and Chriſtians after did ſo:) with that Inſcription, or Poſie; Theſe ſolemnities in marriages, among the ſober and religious Jews were ſo ſacred and ſignal, that the houſe where the celebrity was kept, was called, <hi>The Houſe of prayſe;</hi> the place of bleſſing: and perſons marryed were ſaid to be prayſed or the bleſſed of the Lord: as <hi>Pſal.</hi> 78.63. Their <hi>Virgins were not praiſed;</hi> which we tranſlate, <hi>given in marriage;</hi> as the taking away of their reproach, was by bearing children; Agreeable alſo to our <hi>Engliſh</hi> form, theſe words were in the <hi>Jews</hi> marriage ſolemnly pronounced by the husband, when he took his wife; (as they are cited out of the <hi>Babylonick Talmud</hi>)</p>
+            <p>
+               <q>
+                  <hi>Be thou to me a wife according to the law of</hi> Moſes <hi>and</hi> Iſrael;
+<note place="margin">
+                     <hi>Eſto m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> orem ſcci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> legem</hi> Mo<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Iſrael: <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> juxta verb <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Dei colum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> honorabo <gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>lam &amp; re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> &amp;c. Do tibi dotem virginitatis.</hi>
+                  </note> 
+                  <hi>I will worſhip and honor thee according to the Word of God (to which St.</hi> Peter 1.3, 7. <hi>alludes, Honour your wifes as the weaker veſſels) I ſhall ſeed and govern thee, as thoſe who worſhip, honor, maintain and govern their wifes faith<g ref="char:EOLhyphen"/>fully; I give thee fifty ſhekels for thy dowry; Alſo thy food, clothing, and neceſſaries; together with the kindeneſſe and cuſtome of the whole Earth:</hi>
+               </q> Thus the <hi>Jews.</hi>
+            </p>
+            <p>Yea the very light of nature and ſparks of right reaſon, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>26</label>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Fboti. cod. de Alexan<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> nis.</hi> The Prieſts of <hi>Iſis</hi> conſecrated all their marriages to make them lawfull. Plat. l. 5 rep. <hi>F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> augusationem, Sacerdotes, preces &amp; facrificia. Veniet cum ſignatoribus auſpex.</hi> Juv. ſat. 10. Val. Max. l. 2. c. 1. <hi>Nuptits auſpicia-interpomentus. Sigon. de jure Rom. l.</hi> 1. <hi>c.</hi> 9. <hi>Lactant. Juſt l.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olla <hi>Me<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> perd. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> l.</hi> 4. L.</note> among the civilized and ſobereſt Heathens, Greeks, Romans, made them both venerate the Creator, and humane nature in their marriages; as <hi>Plato</hi> relates; having many ſacred and (as they eſteemed) religious ceremonies; which their Augurs, Flamens, or Prieſts performed publiquely and ſolemnly with Prayers, Benedictions, Feſtivities, Sacrifices, farreations, im<g ref="char:EOLhyphen"/>molations, and the like; which they thought monitory of duty, expiatory of ſin, defenſatives againſt mifortunes; and propitiatory to obtain the divine favour of the Gods. They had their <hi>Sacra<g ref="char:EOLhyphen"/>ment</hi>
+               <pb n="22" facs="tcp:163999:13"/>of ſire and water, which one touched, the other ſprinkled; Their <hi>ſacra</hi> (as they called them) in Spears, Crowns, Vails, Torches, emblemes of love, joy, and luſture and modeſty; in the anoynting of the poſts of the houſe where the Bride came forth (whence <hi>uxor</hi> is from <hi>unxor</hi> as <hi>Servius</hi> obſerves;)
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rch. Q. quae.</hi> 87. <hi>neid. l.</hi> 4. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i ante <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, cui vin<g ref="char:EOLhyphen"/>galia curae.</hi> l. 4. Ae<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> They had a God and Goddeſſes ſpecial; as <hi>Genius</hi> attending and bleſſing marriage; <hi>Jugatina Juno, Diana, Suadela, Ciexia, Manturna, Hymen,</hi> and <hi>Viriplaca,</hi> in or<g ref="char:EOLhyphen"/>der to the peace, proſperity, and fruitfulneſſe and gravity of mar<g ref="char:EOLhyphen"/>riage; intimating thus much, that (by <hi>Natural Divinity</hi>) they thought marriage ſacred,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>genium <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nnere</hi> Juvenal. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ba Juno <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Ovid.</hi>
+               </note> and the bleſſings of it not to be obtained but from the God of Nature.</p>
+            <p>Thus the very Heathens that knew not the true God; who brought not onely the marryed parties to the Prieſts, Altars and Temples of their Gods; but they alſo brought the Images of their Gods into their Bride-chamber, as St. <hi>Auſtin</hi> obſerves, <hi>lib.</hi> 6. <hi>de Ci<g ref="char:EOLhyphen"/>vit.
+<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 27. <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſacri ſo<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> &amp; pub<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ore omni<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>entium in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ii con<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tione <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mur.</hi> Ge<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</note> Dei.</hi>
+            </p>
+            <p>So that I cannot tell from what principle of Sanctity, Refor<g ref="char:EOLhyphen"/>mation, or Religion, that cuſtome (which ſome would call ſacri<g ref="char:EOLhyphen"/>legious) ſhould be brought in among Chriſtians; ſo as may ſtrip marriage of all ſacred initiatings and Chriſtian ſolemnities; to de<g ref="char:EOLhyphen"/>grade the holy honor of it below what <hi>Jews</hi> or <hi>Gentiles</hi> ever did; or the <hi>Turks</hi> themſelves at this day doe, who have ſuch religious regard to marriage,
+<note place="margin">Afric<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ap. <hi>In noniis <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hendis Pater filiam proco deſpondet; mox in Templumitur, &amp;c.</hi>
+               </note> that they marry not but in their Temples, and with th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> decoration of many Ceremonies, which among the <hi>Mahumetans</hi> are counted ſacred.</p>
+            <p>I beſeech you are we (now living) a more <hi>Angelick off-ſpring,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>bryſoſt.</hi>
+               </note> or more Saintly generation of men and women in <hi>England?</hi> Are we leſſe brutiſh, ſenſual, libidinous, or licentious; Are men more ſober and ſevere, as to native extravagancies and the impulſes of inbred flames; that they ſhould ſo eaſily diſpenſe with the <hi>Churches prayers,</hi> the <hi>Ministers</hi> Inſtitution, and the <hi>divine benediction,</hi> and rather bring in their old <hi>Feſcennina</hi> or ribauldries, then uſe any divine ſervice or oriſons? Doe they now leſſe need grave and holy counſel; ſtrict and weighty charges; pious and Chriſtian injunctions proper to ſuch occaſions? Doe they want nothing of direction, of comfort, of grace, of bleſſing; formerly urged and inculcated upon their mindes? Now not ſo much as mentioned, or ſuggeſted to their conſideration or conſciences; or if it be, (which is not uſual with ſome <hi>Juſtices</hi>) yet it is for the moſt part after ſo inſipid, conſuſed, and ruſtical a <hi>Rapſody</hi> of devotion, as carries no great beauty of holineſſe; no honor of religion or marriage: and m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny times great deformities even as to common ſenſe and ordi<g ref="char:EOLhyphen"/>nary
+<pb n="23" facs="tcp:163999:13"/>diſcretion, or civility: And this in an age when men and women too, under pretence of Chriſtian liberty are pleading for divorces; for plurality of wifes and husbands; for a ranting and fornicating Devil under the notion of ſpiritual freedome.</p>
+            <p>Which ſlight or <hi>ſlovenly</hi> faſhion, either of meere <hi>Givil,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>28</label> or but ſeem<g ref="char:EOLhyphen"/>ingly religious, <hi>celebration,</hi> all wiſe men judge to be far ſhort of the <hi>Majeſty</hi> and honor of Chriſtian <hi>Marriages,</hi> in which God and Chriſt are ſo diſcernable: Being the greateſt and moſt ponderous paſſage of our mortal pilgrimage:
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Naz. or.</hi> 19. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Naz.</hi>
+               </note> Then which nothing ſhould more ex<g ref="char:EOLhyphen"/>erciſe the prayers and tears, the piety and devotion of good Chri<g ref="char:EOLhyphen"/>ſtians: Nor can indeed the ſacred pomp, or holy parade of Chri<g ref="char:EOLhyphen"/>ſtians marriages, eaſily bee too rationally ſerious, or too religiouſly ſolemn, whereby to make deep and laſting impreſſions on the mindes and conſciences of men and women.</p>
+            <p>Since in marriages is laid the <hi>foundation,</hi> or root of both <hi>humane</hi> and holy <hi>ſucceſſions;</hi> of Chriſtian families, States, and Churches; This is as the conduit and conſervative of our reaſon, and religion; of learning and experience; of truth and faith; of all virtue and ſanctity, either preceptive or exemplary, as divine <hi>Plato</hi> obſerves. To the fruit of our marriages, as our houſes, lands, ſtates;
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Cl. Al</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 3. <hi>c.</hi> 13 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> ſo our good examples, our commendable cuſtomes; our Religion, our God, our Saviour are to deſcend; and by theſe to be derived to after ages, when we are dead and gone; from their <hi>nurſery</hi> hope<g ref="char:EOLhyphen"/>ful plants ariſe, which may know and worſhip and ſerve the ſame true God of heaven; and partake of the bleſſings offered to mankinde by the incarnate <hi>Meſſias;</hi> and who may after the ruine of their parents fleſhly <hi>Tabernacles,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Plato l.</hi> 6. <hi>de Leg. Elementum mundi &amp; ſeminarium generis humani, Aeternitas quaedam &amp; immortalitas humanitatis</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Ariſt. oeconom.</hi> 1.</note> ſtill erect new and lively <hi>Temples</hi> for the inhabitation of the bleſſed Spirit. Now where I pray can the Type or Embleme of the communion between Chriſt and his Church be better celebrated than in the Church and Congregation; by the Miniſter of that Church, who is to them in Chriſts ſtead, and over them in the Lord?</p>
+            <p>How incongruous then (I beſeech you) muſt it ſeem, <label type="milestone">
+                  <seg type="milestoneunit">Sect </seg>29</label> to ordinary reaſon, to vulgar Divinity, and even to high ſhoe devotion, to ſee this ſo great myſtery and <hi>momentaneous buſineſſe</hi> of Chriſtian <hi>Marriages,</hi> thus ſorely circumciſed, and ſadly eclipſed, as to its wonted honour, and holy ſolemnity; That ſo large a <hi>Volume,</hi> in which are wrote either ſo many bleſſings, or ſo many curſes, ſhould be ſhrunk and rolled up, to ſuch a poor <hi>Epitome;</hi> or bound up in a Lay <hi>decimo ſexto?</hi> That this <hi>tree of life,</hi> which anciently ſtood
+<pb n="24" facs="tcp:163999:14"/>and flouriſhed in the midſt of the Paradiſe or Garden of God, the Church fenſed and adorned with both civil and ſacred ſolemnities, ſhould now, either be removed to the outſides, and skirts of civill and meer ſecular tranſactions, (as a plant rather profane, then ſa<g ref="char:EOLhyphen"/>cred: and fitter to be placed in the circumference of State policy; than in the center of Eccleſiaſtical piety;) or elſe be repreſented, as the <hi>forbidden fruit,</hi> guarded by flaming ſwords, to which neither Miniſter, nor people may ſafely (as heretofore) have acceſſe, under any religious notion or Church form and holy ſolemnity, under great penalty, and peril. And all this, as may ſeem from a prin<g ref="char:EOLhyphen"/>ciple more of deſpight and affront to the learned and faithful Mi<g ref="char:EOLhyphen"/>niſters of this Church, than from any motive tending to the good and benefit of the people as men or Chriſtians.</p>
+            <p>Which truly is never to be ſought, by wiſe men, nor gained by weak or wilful men, in any wayes, ſo contradictory to Natural divinity; to Scriptural light; to divine precedents; to Apoſtoli<g ref="char:EOLhyphen"/>cal judgement; to Primitive practiſe, and Catholique cuſtome in the Churches of Chriſt.</p>
+            <p>In all which, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>30</label> I doubt not, but you as ſober and religious <hi>Gen<g ref="char:EOLhyphen"/>tlemen,</hi> either are, or eaſily will be ſo ſatisfied, by your own reading the Scriptures, and other good Books (from which I take you to be neither ſtrangers nor enemies, (as ſome ſorry undertakers to reform, (before you) have been, who muſt ever expect from learned pens, either to be buryed in oblivion, or only to live in infamy); that you will never think it juſt or fit to ſacrifice all thoſe pregnant teſtimo<g ref="char:EOLhyphen"/>nies, important reaſons, and imitable authorities of ancient times, to novel ignorance, Plebeian prejudice, or modern ſimplicity; And certainly if it were ſit, (as ſome have, though but as bunglers en<g ref="char:EOLhyphen"/>devoured) to reform elder deformities in the Church; there is no cauſe why wiſe men ſhould be ſcrupulous, or fearful to take away later ſpots, to ſupply new defects, or to remove recent inconveni<g ref="char:EOLhyphen"/>ences brought upon us: Which aroſe moſt what from new mo<g ref="char:EOLhyphen"/>delling ſhrubs: as far ſhort of our fore-fathers Cedar-like emi<g ref="char:EOLhyphen"/>nency in all worth and wiſdome, as gloe worms, or falling ſtars, and prodigious <hi>Comets</hi> are, of that glorious light and benign influ<g ref="char:EOLhyphen"/>ence which flows from the munificent conſtancy of the Sun, Moon, and Stars.</p>
+            <p>Having then with great preponderancy of reaſon and religion, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>31</label> thus ſet forth to you, the weight, dignity, and ſanctity formerly obſerved in Chriſtian marriages, by the way of Miniſterial inſtructi<g ref="char:EOLhyphen"/>on, comprecation, and benediction; as in other Chriſtian Churches ancient and modern; ſo in this of <hi>England,</hi> whoſe wiſe and comely or<g ref="char:EOLhyphen"/>der in this point, neither as to expreſſion nor ceremonies, merited ſo ſavere cenſures as the ignorance of ſome hypercritical Reformers put
+<pb n="25" facs="tcp:163999:14"/>upon it; mending all by one blot or daſh of ſevere abolition.</p>
+            <p>It will be (I ſuppoſe) leſſe neceſſary for me to caſt into the ba<g ref="char:EOLhyphen"/>lance of your judgement, the leſſer and additional <hi>grains</hi> of civil and ſecular conveniencies, or inconveniencies; wherein you cannot but ſee, and daily hear from all parts, how much vexation, trouble, pains, defeats, charges, and incumbrances, are brought upon the people, by this new and exotick <hi>mode of marrying;</hi> far beyond what was formerly ever felt, while grave Miniſters worthily <hi>officiated.</hi>
+            </p>
+            <p>I may adde (without any injury) how in this new plantation the weeds of <hi>wantonneſſe,</hi> licentiouſneſſe, petulancy, ſcurrility, le<g ref="char:EOLhyphen"/>vity, and impudence, grow up to great rankneſſe in the mindes and manners of all ſorts of people, which St.
+<note place="margin">Cyp. de diſ<g ref="char:EOLhyphen"/>&amp; hab. virgi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> num. <hi>Inter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> nuptiarum tu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> bas, contra <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dicos &amp; ſobr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mores licenti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſibi de uſurpa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> one ſecerunt. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Laſcivientiu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> libertas, ſer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>num colloqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> inceſta miſce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> audiunt quod non decet: q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> non licet dic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> inter verba <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pia &amp; temu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ta convivia, bus libidinu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fomes accen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tur, &amp;c.</hi>
+               </note> 
+               <hi>Cyprian</hi> long ago ob<g ref="char:EOLhyphen"/>ſerved as ill weeds to grow too eaſily in ſuch meetings, while they are not now as formerly either ſeaſoned with any modeſt thoughts of religious principles; nor ſummoned to conſider of any holy duties or purpoſes, becoming conſcientious Chriſtians; be<g ref="char:EOLhyphen"/>yond meer Heathens or brute beaſts; Indeed there is little or no<g ref="char:EOLhyphen"/>thing uſually now paſſeth, befitting ſo ſolemn vow and Covenant made for life, in the name and preſence of the great God; But commonly the whole matter of marriage is made up in <hi>ſmall cocks,</hi> by a Juſtice many times other wayes buſied, or bent and deſigned; (who is ſometimes leſſe knowing in his Office than his Clark) With ſome brow and ſeverity, he (good man) makes a ſhift to huddle over with haſt, and impatience the pronouncing <hi>them man and wife,</hi> ac<g ref="char:EOLhyphen"/>cording to the power given him by a late act or ordinance; Fees are paid; and ſo Godbuy; (which I mention, not to reproach, or leſ<g ref="char:EOLhyphen"/>ſen the honor of any grave and worthy Gentlemen, who being Juſtices of the Peace, doe in this what is injoyned them; as not very willingly, ſo not unhanſomely; But to ſhew how poor and peddling a matter ſome make of Chriſtians marriages.)</p>
+            <p>What grave and godly ſpectator or auditor will think this ſo quick, ſo ſhort, ſo ſuperficial a diſpatch, as ſome uſe, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>32</label> to be proportionate to or becoming the nature of that, which ſo <hi>highly concerns</hi> the <hi>bodies</hi> and eſtates, ſouls, and conſciences, the temporal and eternal welfare of Chriſtian men and women; which offers no occaſion of holy meditation or prayer, ſuch as <hi>Iſaac</hi> entertained his ſoul with all before his bride and wife met him, <hi>Gen.</hi> 24. v. 33.</p>
+            <p>As in many other changes matter of wonder (if not aſtoniſh<g ref="char:EOLhyphen"/>ment) hath ſurpriſed grave and godly people in this Church of <hi>England;</hi> ſo truly in nothing more, than in this <hi>vertigo,</hi> or turn of the courſe of marriage; which having held forth ſo little, or no rea<g ref="char:EOLhyphen"/>ſons, alſo producing ſo no advantage civil or ſacred to the pub<g ref="char:EOLhyphen"/>lique; is thought (by many) would never have been done, by any perſons, but ſuch whoſe weakneſſe ſought to make a ſhew of
+<pb n="26" facs="tcp:163999:15"/>ſtrength, and activity, by ſafely trampling upon the dejected Mini<g ref="char:EOLhyphen"/>ſtry of the <hi>Church of England;</hi> for they appearing (in the effects which I have hitherto in vain attended, for any convenience or publick good, beyond the former comſtitution) ſo little friends to the peoples <hi>conveniencies,</hi> by this change, they may eaſily ſeem the more perfect enemies to the Miniſters honour and imployment, which is not the mote but the beam in ſome mens blinde or bloudſhotten eyes.</p>
+            <p>Not that learned Miniſters are ſo impertinent, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>33</label> as to urge or al<g ref="char:EOLhyphen"/>ledge in this point of marriage, any <hi>preciſe precept</hi> of God, or parti<g ref="char:EOLhyphen"/>cular command of <hi>Chriſt;</hi> whereby to enjoyn them to this holy offi<g ref="char:EOLhyphen"/>ciating, or bleſſing, at the ſolemnities of marriages, as much as in thoſe duties, properly divine, of Sacramental conſecrations; and other undoubted offices of Religion: which require an <hi>authoratative,</hi> and duly ordained Miniſtery, no leſſe, than all publique civil tranſ<g ref="char:EOLhyphen"/>actions, or <hi>Embaſſies</hi> do require <hi>Embaſſadors</hi> or <hi>Agents</hi> of publique <hi>cre<g ref="char:EOLhyphen"/>dence</hi> and <hi>authority:</hi> They well underſtand that Heathens or Jews were marryed before they became Chriſtians, and had no after ceremony to renew or confirm their marriage, when they turned Chriſtians; whence we conclude Matrimony no Evangelical Sacrament, becauſe it may goe before Converſion, Baptiſm, and admittance into the Church; and yet be valid, and after conſecrated by believing.</p>
+            <p>They well know,
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ugium est &amp; mulieris <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nctio in luamvitae eiudinem <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ens.</hi> Juſti<g ref="char:EOLhyphen"/>Inſtit.</note> that the <hi>(eſſe)</hi> or being of marriage (as Civi<g ref="char:EOLhyphen"/>lians define it) conſiſts in the mutual conſent, and individual communion of one man and woman, who may lawfully chuſe and conſent to live as <hi>man and wife;</hi> That the firſt root or ſpring is na<g ref="char:EOLhyphen"/>tural; (yet divine, as from the God of Laws and Nature;) Its riſe and emanation is ſocial (yet divine, as from the God of order and civil government;) Its higheſt ſublimity and perfection is ſpiritual and myſterious;
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>conſorti<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctiſſimum humani vini juris as.</hi> Mode<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s de rit. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i.</note>) Divine in the higheſt notion and degree; In all three regards marriages of Chriſtians are to be highly reverenced, in nature, in policy and in piety; So then, in order to the <hi>(bene eſſe)</hi> well being, of marriage, wherein decency, honor, edification, good example, ſanctity, holy undertaking the duties, and happy enjoy<g ref="char:EOLhyphen"/>ing the bleſſings of that eſtate, (all which muſt come from God) are to be regarded;
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nſus ma<g ref="char:EOLhyphen"/>nialis ma<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nium con<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, quoad <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>entiam; blicatio <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ebet, prop<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>blicam <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am, &amp; Eccleſiae</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Gerard. e Cyp. <hi>Presbyter nuptiis intereſſe debet, ut cum Dei Be<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>one eorum conſortium adjuvet in omnem ſanctitatem.</hi> Concil. Brit. H. Spel. pag. 462. An. 940. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nem felicita<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is plentudine in promovebit.</hi>
+               </note> the publique prayers and ſacred ſolemnities of the Church, are as far neceſſary, as comely clothes and handſom houſes are to civil ſocieties; And as Chriſtian converſation is ever neceſſary for thoſe, that profeſſe to live in the pale of the true Church, where all things ought in prudence and conſcience to be done, to the glory of God, to the honor of the Goſpel, and the ediſication of others.</p>
+            <pb n="27" facs="tcp:163999:15"/>
+            <p>All which ends are undoubtedly beſt advanced by ſuch celebrati<g ref="char:EOLhyphen"/>on of marriage, as the Church and Parliaments of <hi>England</hi> had ex<g ref="char:EOLhyphen"/>cellently ſetled after the manner of the beſt Primitive and reformed patterns, wherein there was moſt ſeen of Gods preſence in his word and worſhip, in the gifts and graces of his Spirit. All which are as eminent in the former way of Miniſters officiating, as they are now diminiſhed and vaniſhed, in this new and naked way; wherein ſo little is to be ſeen of private bleſſing, and publique benefit: of Gods glory, or the Churches honor.</p>
+            <p>Certainly, if it would ſeeme very grievous to Bridegrooms and Brides, to be denyed the uſe of their beſt clothes, their richeſt orna<g ref="char:EOLhyphen"/>ments and Jewels, which God permits,
+<note place="margin">Epheſ. 5.8. Apoc. 19.7.</note> and Scripture alludes to as tokens of divine bounty; as emblemes of mans dignity, and me<g ref="char:EOLhyphen"/>morials of inward graces, adorning the ſoul: If it were a ridicu<g ref="char:EOLhyphen"/>lous tyranny to compel any people to be marryed,
+<note place="margin">Ezek. 16.10</note> in their <hi>Gibeonitiſh</hi> garments, in filthy rags, or mean and ſlovenly apparrel, (Such as <hi>Joſeph</hi> and <hi>Joſhua</hi> had, till God changed them) how much more may it juſtly ſeeme a dehoneſtation, indignity and affront, put upon Chriſtians in their marriages, to ſtrip them of all thoſe grave, reli<g ref="char:EOLhyphen"/>gious and comely adornings, which were allowed and appointed both for poor and rich in this Church; by perſons that had more fear of God and reverence of man, than thoſe may ſeem to have had, who were the contrivers of this deſolation which hath ſtripped and plundered marriage of all its Primitive Jewels and ancient orna<g ref="char:EOLhyphen"/>ments of piety, holineſſe and devotion?</p>
+            <p>No wonder then if Miniſters and other ſober Chriſtians looking upon Marriages as now among Chriſtians under the generall rules and directions of order, piety and prudence, which God hath given all civill ſocieties, and ſpecially to this Church; do humbly con<g ref="char:EOLhyphen"/>ceive the former uſe and cuſtome of ſolemn and Religious celebrati<g ref="char:EOLhyphen"/>on of Marriages by Miniſters, had far more pious, and prudenti<g ref="char:EOLhyphen"/>all grounds for order, decency and edification, then can be alledged againſt it, or for any change of it. Beſides, the Lawes and conſtitu<g ref="char:EOLhyphen"/>tions of the Nation were added to the Churches cuſtome, which was agreable to faith and good manners; which ought to have been ſacred and inviolable to peaceable Chriſtians (as St <hi>Paul</hi> intimates 1 <hi>Cor.</hi> 10.) unleſſe they had potent objections againſt them, or offered ſomething better in lieu of them; which yet hath not been done; whereby to juſtifie the perverting their courſe of <hi>Marriages</hi> from the Temple to the Hall, from the Sanctuary to the Grange, from the Pulpit or Desk to the Market Croſſe, from the Mini<g ref="char:EOLhyphen"/>ſter to the Juſtice, which is to take off thoſe Crownes and Gar<g ref="char:EOLhyphen"/>lands, wonted (as St. <hi>Chryſoſtome</hi> well, <hi>in Gen.</hi>) to be put on the heads of Married couples, at the day and ſolemnity of their Marri<g ref="char:EOLhyphen"/>ages,
+<pb n="28" facs="tcp:163999:16"/>ages, and to make them appear as with ſhorne and ſhaved heads, which is a ſhame for Man and Woman too, as the Apoſtle, 1 <hi>Cor.</hi> 10.</p>
+            <p>But I ſhall not need to intimate further any ſuch ſuggeſtions to your <hi>wiſdome,</hi> who I believe well know how to diſtinguiſh between <hi>gold</hi> and <hi>copper,</hi> between the <hi>Idoll</hi> of power, and the God of reaſon, between the <hi>Teraphim</hi> of policy, and the Cherubim of piety, between the <hi>Galves</hi> of <hi>Bathel,</hi> and the <hi>Altar</hi> at <hi>Jeruſalem,</hi> between the childiſh babies of paſſionate novelty, and the ſtately ſtatues of Maſculine pru<g ref="char:EOLhyphen"/>dence and venerable antiquity.</p>
+            <p>I only thus far thought it my duty (who am as little as any man concerned in this, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>35</label> as to private intereſt, and as much as any, as to publick happineſſe) humbly to preſent to your more ordinate power, more tempered ſpirits, and more diſcerning judgments, what is not only my private ſenſe (which I do not think you or any men have cauſe much to regard) but what is the generall ſenſe of all ſober and impartiall Chriſtians in <hi>England,</hi> who have ſerious regard both to the honour of the preſent age, and to the benefit of <hi>poſterity;</hi> who all think, that the late change of Marriage, is like turning Chriſts wine again into water, or giving it ſuch a daſh of water, as takes away the taſte of the good old wine, which was much better; that it is as much ſhort in life, ſpirit and vigor of the former grave, ſolemn and godly way, as the purifying liquor in the <hi>Jewes</hi> waterpots was, of that generous wine which Chriſt miraculouſly furniſhed to the Wedding of <hi>Cana</hi> in <hi>Galilee.</hi>
+            </p>
+            <p>And truly it will be not much ſhort of honoring Marriage with a new miracle, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>36</label> if <hi>your wiſdome</hi> and authority can change the late watery Ordinance of <hi>Lay-marrying,</hi> into the wine of former pious and Chriſtian ſolemnity; which did as with the right hand of bleſſing, with a cup of ſalvation, as much cheer the ſpirits of Married cupples, by grave counſell, holy comfort, Scripture promiſes, devout prayers, and divine benedictions, as this laſt left-handed Act hath damped and quenched them, as to Religious joyes and Chriſti<g ref="char:EOLhyphen"/>an duties, which ought not (like the Fidlers and Miniſtrels which Chriſt turned out of the Chamber of the dead) be excluded from the Weddings of Chriſtians, who are commanded to marry and to be merry only in the Lord.</p>
+            <p>If what I have in this <hi>Epiſtolary Tract</hi> alledged of reaſon and Religion in the caſe of <hi>Marriages,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>37</label> may take place upon your un<g ref="char:EOLhyphen"/>derſtandings, I doubt not, but you have conſcience and courage ſufficient to reprobate the late la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck or ruſtick novelty, and to reſtore the priſtine Eccleſiaſtick ſanctity of Marriages here in <hi>England.</hi>
+            </p>
+            <p>If you do not diſcern the weight of theſe reaſons, <label type="milestone">
+                  <seg type="milestoneunit">Sect. </seg>38</label> both pious
+<pb n="29" facs="tcp:163999:16"/>and prudentiall, which I have produced with all plainneſſe, and with all due reſpect preſented to you; or, if for ſome <hi>unreaſonable reaſons</hi> of State you think it not fit to own and follow them, (ſo as to make any juſt revocation or reſtitution) yet you will give me leave not to deſpair of your ingenuity and honour, ſo ſar, as to excuſe my boldneſſe for interrupting you; which I beſeech your nobleneſſe and candor to interpret (as it is) a fruit of my plain hearted Parrheſie and <hi>integrity;</hi> who in great changes, and publick concernments (wherein men of my calling are made only ſpectators or ſufferers) cannot (yet) learn how by a ſervile licence, to ſmother my ſenſe of what I thinke dangerous or inconvenient; nor my ap<g ref="char:EOLhyphen"/>probation of thoſe excellent things, which were long ſince juſtified by the conſent and ſuffrages of many perſons and Churches, fa<g ref="char:EOLhyphen"/>mous for their learning, godlineſſe and wiſdome; Leaſt of all do I know how to flatter or comply with any <hi>imperious novelty,</hi> to the diſgrace of <hi>primitive verity;</hi> which is, and I hope ever ſhall be the meaſure of all the counſels, endevours and actions of</p>
+            <closer>
+               <signed>Your humble Servant in the Lord <hi>John Gauden.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>October,</hi> 1654.</date>
+               </dateline>
+            </closer>
+            <epigraph>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <bibl>Solennis in Athenienſium nuptiis cantilena.</bibl>
+               </q>
+               <q>
+                  <hi>Emendate ergo eccleſiae regulam, damnate qui in toto or be ſunt ſacerdotes, nuptia<g ref="char:EOLhyphen"/>rum initia benedicentes, conſecrantes &amp; in D. imyſteriis ſociantes.</hi> 
+                  <bibl>
+                     <hi>De concupiſ. Scripturn anno Chriſti</hi> 400. <hi>l.</hi> 3. <hi>p.</hi> 210. <hi>editum a Sirmondo,</hi> 1643.</bibl>
+               </q>
+               <q>
+                  <hi>Luculentum ſade de p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſ o Benedictionis nuptialis, ſacrerum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ad muptias ſpectantium uſu in Chriſtian<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mo teſti<g ref="char:EOLhyphen"/>monium.</hi> 
+                  <bibl>Selden. uxor Ebr. l. 2. c. 28. p. 301.</bibl>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
